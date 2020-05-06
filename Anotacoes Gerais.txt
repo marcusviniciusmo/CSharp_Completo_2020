@@ -20,3 +20,21 @@ Linguagem pré-compilada + máquina virtual (Java, C#)
 Compilação - necessita de um compilador específico para a plataforma desejada. Talvez haja necessidade de adaptações.
 Interpretação - necessita de um programa que irá interpretar o código e convertendo para a plataforma desejada. A vantagem é que o código será escrito uma única vez, porém, a desvantagem é que é um processo mais lento do que a compilação.
 Na pré-compilação, é escrito o código-fonte e será feita uma pré-compilação gerando um código intermediário, o bytecode, que será executado em cima da máquina virtual específica de cada sistema. A vantagem é que o bytecode já passou pelo processo de compilação.
+
+==================================================================== AULA 08 - ESTRUTURA APLICAÇÃO C# ====================================================================
+
+Aplicação, na orientação a objetos, é composta por classes.
+As classes podem ser agrupadas em namespaces (agrupamento LÓGICO de classes relacionadas):
+- Entities (Entidades de negócio, ex.: produto, cliente, pedido)
+- Services (serviços do sistema)
+- Repositories (classes que acessam os dados)
+
+Assembly (DLL ou EXE) - Agrupamento físico de classes relacionadas (build). Ex.: um sistema muito grande, que possui diversos módulos, podem ser agrupados:
+- Módulo Financeiro (entities, services, repositories)
+- Módulo Gráficos (Gráficos 3D, Gráficos 2D, Utilitários)
+como se fossem subprogramas que formam um programa.
+
+Aplicação ou solução - agrupamento de assemblies relacionados:
+Aplicação = Solution
+Assembly = Project
+Ex.: Sistema de Comércio Eletrônico, pode possuir vários assemblies
