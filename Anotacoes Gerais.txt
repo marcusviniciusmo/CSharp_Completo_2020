@@ -38,3 +38,19 @@ Aplicação ou solução - agrupamento de assemblies relacionados:
 Aplicação = Solution
 Assembly = Project
 Ex.: Sistema de Comércio Eletrônico, pode possuir vários assemblies
+
+============================================================== AULA 09 - INSTALAÇÃO VISUAL STUDIO COMMUNITY ==============================================================
+
+- Documentação:
+https://docs.microsoft.com/pt-br/visualstudio/install/install-visual-studio?view=vs-2019
+
+- Download do 'bootstrapper' do Visual Studio:
+https://visualstudio.microsoft.com/downloads
+
+Cargas de Trabalho:
+- ASP.NET e desenvolvimento Web;
+- Desenvolvimento para Azure;
+- Desenvolvimento para desktop com .NET;
+- Desenvolvimento com a plataforma universal do Windows;
+- Processamento e armazenamento de dados;
+- Desenvolvimento multiplataforma com .NET Core;
