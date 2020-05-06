@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\bin\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\bin\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\bin\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\bin\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\bin\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\bin\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\obj\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\obj\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\obj\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\obj\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula10MeuPrimeiroPrograma\Aula10MeuPrimeiroPrograma\obj\Debug\netcoreapp3.1\Aula10MeuPrimeiroPrograma.pdb

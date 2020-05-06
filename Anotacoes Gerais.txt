@@ -54,3 +54,9 @@ Cargas de Trabalho:
 - Desenvolvimento com a plataforma universal do Windows;
 - Processamento e armazenamento de dados;
 - Desenvolvimento multiplataforma com .NET Core;
+
+==================================================================== AULA 10 - MEU PRIMEIRO PROGRAMA =====================================================================
+
+-Indentação automática: Ctrl + K + D
+-Rodar o projeto: Ctrl + F5
+-Aumentar/Diminuir Fonte: Ctrl + Mouse Scroll
