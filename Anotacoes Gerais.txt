@@ -1,0 +1,12 @@
+========================================================================== AULA 06 - C# E .NET ==========================================================================
+
+C# - linguagem;
+.Net - plataforma que roda outras linguagens;
+
+.Net:
+- CLR (Common Language Runtime) - Máquina virtual, similar a JVM do JAVA. A CLR possui Garbage Collection (objetos não utilizados são automaticamente deslocados da memória);
+- é uma documentação que possui suas implementações:
+  .Net Framework (2002) - roda somente em sistemas Windows, desktop ou web (roda sobre o IIS);
+  Mono (2004) - execução multiplataforma (ex.: Unity);
+  Xamarin (2011) - baseado no Mono, para a criação de aplicativos para dispositivos móveis;
+  .Net Core (2016) - roda em multiplataformas, muita performance e praticidade;
