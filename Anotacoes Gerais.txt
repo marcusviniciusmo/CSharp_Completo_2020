@@ -61,7 +61,7 @@ Cargas de Trabalho:
 -Rodar o projeto: Ctrl + F5
 -Aumentar/Diminuir Fonte: Ctrl + Mouse Scroll
 
-============================================================= AULA 11 - ESTRUTURA BÁSICA DE UM PROGRAMA C# ==============================================================
+============================================================== AULA 11 - ESTRUTURA BÁSICA DE UM PROGRAMA C# ==============================================================
 
 -Estrutura do projeto:
 O projeto C# é uma solução. Ele possui um arquivo com extensão .sln (responsável por abrir o projeto).
@@ -73,3 +73,18 @@ As pastas 'bin' e 'obj' são arquivos gerados da compilação do projeto.
 'namespace' - agrupamento de classes relacionadas. É opcional;
 'class' - todo código feito, deve estar dentro de uma classe que é a unidade básica da Programação Orientada a Objetos.
 'static void Main' - declaração padrão que identifica o entrypoint da aplicação, ou seja, o ponto de entrada.
+
+=================================================================== AULA 12 - DICAS DO VISUAL STUDIO =====================================================================
+
+-Alterar Idioma:
+Ferramentas -> Opções -> Ambiente -> Configurações Internacionais -> Idioma
+Tools -> Options -> Enviromment -> International Settings -> Language
+
+-Abrir ou fechar o projeto:
+Abrir arquivo .sln
+
+-Indentação automática:
+Ctrl + K + D
+
+- Quebra de linha nas chaves:
+Tools -> Options -> Text Editor -> C# -> Code Estiling -> Formatting -> New Lines
