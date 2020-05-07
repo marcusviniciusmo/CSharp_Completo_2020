@@ -60,3 +60,16 @@ Cargas de Trabalho:
 -Indentação automática: Ctrl + K + D
 -Rodar o projeto: Ctrl + F5
 -Aumentar/Diminuir Fonte: Ctrl + Mouse Scroll
+
+============================================================= AULA 11 - ESTRUTURA BÁSICA DE UM PROGRAMA C# ==============================================================
+
+-Estrutura do projeto:
+O projeto C# é uma solução. Ele possui um arquivo com extensão .sln (responsável por abrir o projeto).
+Arquivo com extensão .csproj é um arquivo de configuração do projeto e somente será alterado, caso deva acrescentar alguma dependência, por exemplo.
+As pastas 'bin' e 'obj' são arquivos gerados da compilação do projeto.
+
+-Estrtura do código:
+'using...' - referência a algum namespace;
+'namespace' - agrupamento de classes relacionadas. É opcional;
+'class' - todo código feito, deve estar dentro de uma classe que é a unidade básica da Programação Orientada a Objetos.
+'static void Main' - declaração padrão que identifica o entrypoint da aplicação, ou seja, o ponto de entrada.
