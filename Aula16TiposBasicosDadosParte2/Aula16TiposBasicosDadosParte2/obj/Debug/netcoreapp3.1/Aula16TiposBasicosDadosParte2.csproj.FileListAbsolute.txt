@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\bin\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\bin\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\bin\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\bin\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\bin\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\bin\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\obj\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\obj\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\obj\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\obj\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula16TiposBasicosDadosParte2\Aula16TiposBasicosDadosParte2\obj\Debug\netcoreapp3.1\Aula16TiposBasicosDadosParte2.pdb

@@ -121,3 +121,29 @@ SByte x = 100;
 
 -Tipo LONG:
 Ao trabalhar com números do tipo long, usa-se a letra L ao final do número para indicar que está trabalhando com número long.
+
+============================================================ AULA 16 - TIPOS BÁSICOS DE DADOS EM C# (PARTE 2) =============================================================
+
+-Utilizar o tipo CHAR:
+usa-se aspas SIMPLES;
+
+- Utilizar o código Unicode em uma variável do tipo Char:
+Ex: letra A -> Código: 0041
+'\u0041'
+
+-Utilizar o tipo FLOAT:
+usa-se a letra 'f' ao final do número. Caso não seja utilizado a letra 'f', o sistema irá entender que se trata de um número do tipo DOUBLE;
+
+-Utilizar o tipo STRING:
+usa-se aspas DUPLAS;
+Strings não são considerados tipos básicos em C#;
+ _________________________________________________________________________________________________________________
+| C# Types | .Net Framework Type |                                    Descrição                                   |
+|  string  |    System.String    | Uma cadeia de caracteres Unicode IMUTÁVEL(segurança, simplicidade, thread safe)|
+|  object  |    System.Object    |          Um objeto genérico (toda classe em C# é subclasse de object)          |
+|          |                     | GetType, Equals, GetHashCode, ToString                                         |
+ -----------------------------------------------------------------------------------------------------------------
+
+-Valores Mínimos e Máximos de um tipo:
+Há uma propriedade em cada tipo que informa os valores mínimo e máximo - MinValue e MaxValue:
+Ex.: int.MinValue, sbyteMaxValue
