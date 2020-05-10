@@ -147,3 +147,21 @@ Strings não são considerados tipos básicos em C#;
 -Valores Mínimos e Máximos de um tipo:
 Há uma propriedade em cada tipo que informa os valores mínimo e máximo - MinValue e MaxValue:
 Ex.: int.MinValue, sbyteMaxValue
+
+============================================================== AULA 17 - RESTRIÇÕES PARA NOMES DE VARIÁVEIS ==============================================================
+
+RESTRIÇÕES:
+*Não pode começar com dígito: use uma letra ou _
+*Não usar acentos ou til (a linguagem até aceita, mas não é recomendável)
+*Não pode ter espaço em branco
+*SUGESTÃO: use nomes que tenham significado
+
+ERRADO: 				CORRETO:
+int 5minutos;				int _5minutos;
+int salário;				int salario;
+int salario do funcionario;		int salarioDoFuncionario;
+
+CONVENÇÕES:
+*Camel Case: lastName(parâmetros de métodos, variáveis dentro de métodos). Primeira letra minúscula e as demais iniciais maiúsculas;
+*Pascal Case: LastName(namespaces, classe, properties e métodos). Todas as iniciais são maiúsculas;
+*Padrão -lastname(atributos "internos" da classe)
