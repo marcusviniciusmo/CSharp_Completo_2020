@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\bin\Debug\netcoreapp3.1\Aula18SaidasDeDados.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\bin\Debug\netcoreapp3.1\Aula18SaidasDeDados.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\bin\Debug\netcoreapp3.1\Aula18SaidasDeDados.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\bin\Debug\netcoreapp3.1\Aula18SaidasDeDados.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\bin\Debug\netcoreapp3.1\Aula18SaidasDeDados.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\bin\Debug\netcoreapp3.1\Aula18SaidasDeDados.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\obj\Debug\netcoreapp3.1\Aula18SaidasDeDados.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\obj\Debug\netcoreapp3.1\Aula18SaidasDeDados.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\obj\Debug\netcoreapp3.1\Aula18SaidasDeDados.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\obj\Debug\netcoreapp3.1\Aula18SaidasDeDados.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula18SaidasDeDados\Aula18SaidasDeDados\obj\Debug\netcoreapp3.1\Aula18SaidasDeDados.pdb
