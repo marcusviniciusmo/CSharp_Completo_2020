@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\bin\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\bin\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\bin\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\bin\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\bin\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\bin\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\obj\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\obj\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\obj\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\obj\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula19OperadoresAritmeticos\Aula19OperadoresAritmeticos\obj\Debug\netcoreapp3.1\Aula19OperadoresAritmeticos.pdb

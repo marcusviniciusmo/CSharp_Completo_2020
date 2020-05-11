@@ -195,3 +195,26 @@ Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo.toString(
 *Concatenação
 Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.toString("F2") + " reais.");
 Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.toString("F2", CultureInfo.InvariantCulture) + " reais.");
+
+==================================================================== AULA 19 - OPERADORES ARITMÉTICOS ====================================================================
+
+*Operadores:
++ - * / %
+ ________________________________________
+| NOTAS:                                 |
+| 1) * / % tem precedência maior que + - |
+| 2) Exemplos                            |
+| 	3 + 4 * 2 --> Resultado 11       |
+|	(3 + 4) * 2 --> Resultado 14     |
+| 3) Pode-se usar parênteses à vontade   |
+| 4)Exemplo com mod:                     |
+|	17 % 3 --> Resultado: 2          |
+ ----------------------------------------
+
+*Divisão de números inteiros com resultado fracionário:
+	int n4 = 10 / 8; 
+=> resultado vai ser 1. Pois como há a divisão de dois números inteiros, a máquina entende que se pretende obter apenas a parte inteira do resultado. O correto seria usar o casting:
+	double n4 = (double) 10 / 8;	ou	double n4 = 10.0 / 8;
+
+*Declarando diversas variáveis de uma vez:
+	double a = 1.0, b = -3.0, c = -4.0;
