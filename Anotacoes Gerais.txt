@@ -218,3 +218,37 @@ Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.
 
 *Declarando diversas variáveis de uma vez:
 	double a = 1.0, b = -3.0, c = -4.0;
+
+=================================================================== AULA 20 - OPERADORES DE ATRIBUIÇÃO ===================================================================
+
+ ______________________________________
+| Operador | Exemplo |   Significado   |
+|--------------------------------------|
+|     =    | a = 10; |   a RECEBE 10   |
+|    +=    | a += 2; | a RECEBE a + 2; |
+|    -=    | a -= 2; | a RECEBE a - 2; |
+|    *=    | a *= 2; | a RECEBE a * 2; |
+|    /=    | a /= 2; | a RECEBE a / 2; |
+|    %=    | a %= 3; | a RECEBE a % 3; |
+ --------------------------------------
+
+*Atribuição em strings com o operador +=
+	string x = "ABC";
+	Console.WriteLine(x);
+	x += "DEF";
+	Console.WriteLine(x);
+Obs: a atribuição também serve caso o segundo valor esteja armazenado em uma variável.
+
+ _______________________________________
+| Operador |    Exemplo   | Significado |
+|    ++    | a++; ou ++a; | a = a + 1;  |
+|    --    | a--; ou --a; | a = a - 1;  |
+ ---------------------------------------
+
+*a++
+int x1 = 10;
+int x2 = x1++; // Atribui o valor de x1 para a variável x2, e depois incrementa o valor da variável x1.
+
+*++a
+int x3 = 20;
+int x4 = ++x3; // Incrementa o valor da variável x3, e depois atribui o valor de x3 para a variável x4.

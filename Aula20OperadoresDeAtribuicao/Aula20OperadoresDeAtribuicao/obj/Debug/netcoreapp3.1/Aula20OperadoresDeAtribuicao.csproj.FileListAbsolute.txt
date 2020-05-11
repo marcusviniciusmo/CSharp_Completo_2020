@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\bin\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula20OperadoresDeAtribuicao\Aula20OperadoresDeAtribuicao\obj\Debug\netcoreapp3.1\Aula20OperadoresDeAtribuicao.pdb
