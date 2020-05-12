@@ -303,3 +303,12 @@ Recorta uma string em vários pedaços conforme foi informado ao compilador.
 	string p1 = vet[0];				=> SIMPLIFICANDO =>		| string p2 = vet[1];                           |
 	string p2 = vet[1];								| string p3 = vet[2];                           |
 	string p3 = vet[2];								 -----------------------------------------------
+
+============================================================== AULA 23 - ENTRADA DE DADOS EM C# (PARTE 2) ================================================================
+
+*Convertendo Console.ReadLine() para outros tipos de variáveis
+Como o comando Console.ReadLine é usado somente para strings, deve-se converter para o tipo de dado desejado
+	int n1 = int.Parse(Console.ReadLine());
+	char ch = char.Parse(Console.ReadLine());
+	double n2 = double.Parse(Console.ReadLine());  => ao converter para números decimais, deve-se atentar quanto à vírgula na saída do dado devido ao idioma do
+							teclado, sendo necessário usar o comando CultureInfo.InvariantCulture
