@@ -284,3 +284,22 @@ Conversão explícita entre tipos COMPATÍVEIS
 	| double a = 5.1;     |
 	| float c = (int)a;   | => Conversão explícita. Nesse tipo de conversão, os valores depois da vírgula serão truncados.
 	 ---------------------
+
+============================================================== AULA 22 - ENTRADA DE DADOS EM C# (PARTE 1) ================================================================
+
+* Console.ReadLine()
+- Lê da entrada padrão até a quebra de linha;
+- Retorna os dados lidos na forma de string;
+
+* Split
+Recorta uma string em vários pedaços conforme foi informado ao compilador.
+	 _____________________________
+	| "batata" "tomate" "abacaxi" | => O comando SPLIT é utilizado para "separar" nesse caso, as três palavras em variáveis diferentes, sendo que foram digitadas
+	|   p1       p2        p3     |    na mesma linha no console.
+	 -----------------------------
+											 _______________________________________________
+	string s = Console.ReadLine();							| string[] vet = Console.ReadLine().Split(' '); |
+	string[] vet = s.Split(' ');							| string p1 = vet[0];                           |
+	string p1 = vet[0];				=> SIMPLIFICANDO =>		| string p2 = vet[1];                           |
+	string p2 = vet[1];								| string p3 = vet[2];                           |
+	string p3 = vet[2];								 -----------------------------------------------

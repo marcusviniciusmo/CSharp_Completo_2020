@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\bin\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\bin\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\bin\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\bin\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\bin\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\bin\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\obj\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\obj\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\obj\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\obj\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula22EntradaDeDadosParte1\Aula22EntradaDeDadosParte1\obj\Debug\netcoreapp3.1\Aula22EntradaDeDadosParte1.pdb
