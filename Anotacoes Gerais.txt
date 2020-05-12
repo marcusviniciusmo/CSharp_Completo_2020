@@ -312,3 +312,16 @@ Como o comando Console.ReadLine é usado somente para strings, deve-se converter
 	char ch = char.Parse(Console.ReadLine());
 	double n2 = double.Parse(Console.ReadLine());  => ao converter para números decimais, deve-se atentar quanto à vírgula na saída do dado devido ao idioma do
 							teclado, sendo necessário usar o comando CultureInfo.InvariantCulture
+
+================================================================== AULA 25 - OPERADORES COMPARATIVOS =====================================================================
+
+ ___________________________
+| Operador |   Significado  |
+|---------------------------|
+|    >     |      maior     |
+|    <     |      menor     |
+|    >=    | maior ou igual |
+|    <=    | menor ou igual |
+|    ==    |      igual     |
+|    !=    |    diferente   |
+ ---------------------------

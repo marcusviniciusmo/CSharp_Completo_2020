@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula25OperadoresComparativos.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula25OperadoresComparativos.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula25OperadoresComparativos.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula25OperadoresComparativos.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula25OperadoresComparativos.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula25OperadoresComparativos.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula25OperadoresComparativos.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula25OperadoresComparativos.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula25OperadoresComparativos.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula25OperadoresComparativos.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula25OperadoresComparativos\Aula25OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula25OperadoresComparativos.pdb
