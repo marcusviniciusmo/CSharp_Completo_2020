@@ -252,3 +252,35 @@ int x2 = x1++; // Atribui o valor de x1 para a variável x2, e depois incrementa
 *++a
 int x3 = 20;
 int x4 = ++x3; // Incrementa o valor da variável x3, e depois atribui o valor de x3 para a variável x4.
+
+================================================================ AULA 21 - CONVERSÃO IMPLÍCITA E CASTING =================================================================
+
+*Conversão implícita entre tipos:
+https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/implicit-numericconversions-table
+
+	 _________________
+	| float x = 4.5f; |
+	| double y = x;   | => Operação possível, pois float tem 4bytes e double tem 8bytes. Sendo assim, a variável float, cabe dentro da variável double.
+	 -----------------
+	 _________________
+	| double a = 5.1; |
+	| float b = a;    | => Operação incorreta, pois uma variável double não cabe dentro de uma variável float, podendo haver perda de dados.
+	 -----------------     Caso o programador tenha certeza da operação, pode ser feita a conversão utilizando CASTING.
+
+	 ___________________________
+	| int a = 5;                |
+	| int b = 2;                | => A variável resultado terá valor 2, pois como é uma divisão de dois números inteiros, o compilador entende que o resultado
+	| double resultado = a / b; |    da divisão deve ser um número inteiro, considerando apenas a parte inteira da divisão. Para garantir que o resultado seja double,
+	 ---------------------------     e que as casas decimais não sejam descartadas, deve-se fazer uma conversão explícita (CASTING).
+
+*Casting:
+Conversão explícita entre tipos COMPATÍVEIS
+
+	 _____________________
+	| double a = 5.1;     |
+	| float b = (float)a; | => Conversão explícita
+	 ---------------------
+	 _____________________
+	| double a = 5.1;     |
+	| float c = (int)a;   | => Conversão explícita. Nesse tipo de conversão, os valores depois da vírgula serão truncados.
+	 ---------------------

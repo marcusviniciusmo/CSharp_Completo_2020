@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\bin\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\bin\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\bin\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\bin\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\bin\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\bin\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\obj\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\obj\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\obj\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\obj\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula21ConversaoImplicitaECasting\Aula21ConversaoImplicitaECasting\obj\Debug\netcoreapp3.1\Aula21ConversaoImplicitaECasting.pdb
