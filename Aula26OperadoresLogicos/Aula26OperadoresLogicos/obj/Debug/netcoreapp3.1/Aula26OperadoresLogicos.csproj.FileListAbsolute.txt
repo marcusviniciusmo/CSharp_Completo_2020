@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\bin\Debug\netcoreapp3.1\Aula26OperadoresLogicos.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\bin\Debug\netcoreapp3.1\Aula26OperadoresLogicos.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\bin\Debug\netcoreapp3.1\Aula26OperadoresLogicos.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\bin\Debug\netcoreapp3.1\Aula26OperadoresLogicos.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\bin\Debug\netcoreapp3.1\Aula26OperadoresLogicos.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\bin\Debug\netcoreapp3.1\Aula26OperadoresLogicos.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\obj\Debug\netcoreapp3.1\Aula26OperadoresLogicos.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\obj\Debug\netcoreapp3.1\Aula26OperadoresLogicos.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\obj\Debug\netcoreapp3.1\Aula26OperadoresLogicos.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\obj\Debug\netcoreapp3.1\Aula26OperadoresLogicos.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula26OperadoresLogicos\Aula26OperadoresLogicos\obj\Debug\netcoreapp3.1\Aula26OperadoresLogicos.pdb
