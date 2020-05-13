@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\bin\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\bin\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\bin\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\bin\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\bin\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\bin\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\obj\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\obj\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\obj\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\obj\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula28EscopoEInicializacao\Aula28EscopoEInicializacao\obj\Debug\netcoreapp3.1\Aula28EscopoEInicializacao.pdb
