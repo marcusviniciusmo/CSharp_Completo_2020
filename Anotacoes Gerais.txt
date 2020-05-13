@@ -336,3 +336,23 @@ Como o comando Console.ReadLine é usado somente para strings, deve-se converter
 |    !     |     NÃO     |		2 > 3 || 4 != 5  --> Resultado: true		|  V |  F |    F   |	|  V |  F |     V    |      -------------
  ------------------------		!(2 > 3) && 4 != 5  --> Resultado: true		|  V |  V |    V   |	|  V |  V |     V    |
 											 ------------------	 --------------------
+
+=============================================================== AULA 27 - ESTRUTURA CONDICIONAL (IF-ELSE) ================================================================
+
+*Estrutura Condicional Simples:			*Estrutura Condicional Composta				*Estrutura Condicional com Encadeamentos
+	if (condicao) {					if (condicao) {					if (condicao 1){
+	   comando 1					   comando 1					   comando 1
+	   comando 2					   comando 2					   comando 2
+	}						}						}
+							else{						else if (condicao 2){
+							   comando 3					   comando 3
+							   comando 4					   comando 4
+							}						}
+													else if (condicao 3){
+	 _____________________________________________							   comando 5
+	| NOTA: se o bloco de comandos possuir apenas |							   comando 6
+	|     um comando, as chaves são opcionais     |								}
+	 ---------------------------------------------							else {
+													   comando 7
+													   comando 8
+													}

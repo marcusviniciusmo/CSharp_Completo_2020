@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\netcoreapp3.1\Aula27EstruturaCondicional.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\netcoreapp3.1\Aula27EstruturaCondicional.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\netcoreapp3.1\Aula27EstruturaCondicional.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\netcoreapp3.1\Aula27EstruturaCondicional.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\netcoreapp3.1\Aula27EstruturaCondicional.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\bin\Debug\netcoreapp3.1\Aula27EstruturaCondicional.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\netcoreapp3.1\Aula27EstruturaCondicional.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\netcoreapp3.1\Aula27EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\netcoreapp3.1\Aula27EstruturaCondicional.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\netcoreapp3.1\Aula27EstruturaCondicional.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula27EstruturaCondicional\Aula27EstruturaCondicional\obj\Debug\netcoreapp3.1\Aula27EstruturaCondicional.pdb
