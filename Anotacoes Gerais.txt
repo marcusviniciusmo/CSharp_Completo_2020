@@ -365,3 +365,20 @@ Como o comando Console.ReadLine é usado somente para strings, deve-se converter
 - Quando se declara uma variável dentro de uma estrutura, a variável só irá existir durante a execução da estrutura. Quando a execução terminar, a variável será 
 desalocada.
 - Não se pode utilizar uma variável de um escopo menor, dentro de um escopo maior.
+
+====================================================================== AULA 30 - FUNÇÕES (SINTAXE) =======================================================================
+
+* Representam um processamento que possui significado:
+	- Math.Srqt(double)
+	- Console.WriteLine(string)
+
+* Principais vantagens:
+	- Modularização - dividir o programa em partes menores
+	- Delegação - delegar o processamento para outro local
+	- Reaproveitamento - chamar uma função ao invés de repetir todo o algoritmo
+
+* Dados de entrada e saída
+	- Funções podem receber dados de entrada (parâmetros ou argumentos)
+	- Funções podem ou não retornar uma saída
+
+* Em orientação a objetos, funções em classes, recebem o nome de "métodos"

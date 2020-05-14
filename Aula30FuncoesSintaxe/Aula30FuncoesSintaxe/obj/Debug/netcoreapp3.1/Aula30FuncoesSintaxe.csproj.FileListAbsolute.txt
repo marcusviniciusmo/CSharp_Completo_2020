@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\bin\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\bin\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\bin\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\bin\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\bin\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\bin\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\obj\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\obj\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\obj\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\obj\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula30FuncoesSintaxe\Aula30FuncoesSintaxe\obj\Debug\netcoreapp3.1\Aula30FuncoesSintaxe.pdb
