@@ -382,3 +382,24 @@ desalocada.
 	- Funções podem ou não retornar uma saída
 
 * Em orientação a objetos, funções em classes, recebem o nome de "métodos"
+
+================================================================= AULA 31 - DEBUGGING COM VISUAL STUDIO ==================================================================
+
+*Debugging:
+Execução passo-a-passo do algoritmo
+
+*Teclas:
+- F9 - Marcar/desmarcar breakpoints (ponto a partir de onde será executado o debug);
+- F5 - Iniciar/continuar o debug;
+- F10 - executar um passo (pula função);
+- F11 - executar um passo (entra na função);
+- SHIFT + F11 - sair do método em execução;
+- SHIFT + F5 - interrompe o debug;
+
+*Observações:
+- Linha destacada em vermelhor indica existência de um breakpoint;
+- Linha destacada em amarelo indica a próxima linha a ser executada;
+- Aba 'Locals' no Visual Studio no modo debug, vai conter todas as variáveis do escopo local (escopo da função);
+- Aba 'Watch' - expressões personalizadas;
+- Aba 'Autos' - expressões "interessantes" detectadas pelo Visual Studio;
+- Quando for usada a tecla F10 no modo debug, ao chegar em uma função, o debug irá "pular" a função e não irá entrar nela;
