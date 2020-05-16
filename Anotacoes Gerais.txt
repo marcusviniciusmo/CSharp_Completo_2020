@@ -411,3 +411,18 @@ Execução passo-a-passo do algoritmo
 	   comando 1				| V: executa e volta |
 	   comando 2				| F: pula fora       |
 	}					 --------------------
+
+=============================================================== AULA 34 - ESTRUTURA REPETITIVA PARA (FOR) ================================================================
+
+ _________________	 ____________________	 __________________
+| Executa somente |	| V: executa e volta |	| Executa toda vez |
+| na primeira vez |	| F: pula fora       |	| depois de voltar |
+ -----------------	 --------------------	 ------------------
+		    \		  |		 /
+		     \		  |		/
+		for (início; condição; incremento){
+   		   comando 1
+   		   comando 2
+		}
+
+*Usada quando você conhece antecipadamente a quantidade de repetições;
