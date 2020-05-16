@@ -403,3 +403,11 @@ Execução passo-a-passo do algoritmo
 - Aba 'Watch' - expressões personalizadas;
 - Aba 'Autos' - expressões "interessantes" detectadas pelo Visual Studio;
 - Quando for usada a tecla F10 no modo debug, ao chegar em uma função, o debug irá "pular" a função e não irá entrar nela;
+
+============================================================ AULA 32 - ESTRUTURA REPETITIVA ENQUANTO (WHILE) =============================================================
+						 ____________________
+* Estrutura "enquanto"				| REGRA:             |
+	while (condição) {			|		     |
+	   comando 1				| V: executa e volta |
+	   comando 2				| F: pula fora       |
+	}					 --------------------

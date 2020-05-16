@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\bin\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\bin\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\bin\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\bin\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\bin\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\bin\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\obj\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\obj\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\obj\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\obj\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula32EstruturaRepetitivaEnquanto\Aula32EstruturaRepetitivaEnquanto\obj\Debug\netcoreapp3.1\Aula32EstruturaRepetitivaEnquanto.pdb
