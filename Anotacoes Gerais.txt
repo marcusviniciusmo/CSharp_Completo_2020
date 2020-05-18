@@ -502,3 +502,30 @@ Para melhorar isso, vamos utilizar uma CLASSE para representar um triângulo.   
 |   |-----------------------------		 -----------------------------------    |	Objetos: são instâncias da classe
 |										        |
  ---------------------------------------------------------------------------------------
+
+========================================= AULA 41 - CRIANDO UM MÉTODO PARA OBTERMOS OS BENEFÍCIOSDE REAPROVEITAMENTO E DELEGAÇÃO =========================================
+
+*Discussão:
+Com o uso da CLASSE, agora nós temos uma variável composta do tipo "Triângulo" para representar cada triângulo:
+	
+	Triangulo x, y;
+	x = new Triangulo();
+	y = new Triangulo();
+
+Agora, vamos melhorar nossa CLASSE, acrescentando um MÉTODO para calcular a área.
+(No problema dos triângulos, há repetição de código no cálculo da área, além de um cálculo de área específico não deveria ficar no programa principal)
+
+*Projeto da Classe (UML) - desenhar uma classe antes mesmo de programar.
+ __________________________
+|         Triangulo   <----|------------Nome da Classe
+|--------------------------|
+| - A : double             |
+| - B : double        <----|------------Atributos da Classe
+| - C : double             |
+|--------------------------|
+| + CalcularArea(): double |<-----------Métodos da Classe
+ --------------------------
+
+*Quais são os benefícios de se calcular a área de um triângulo por um meio de um MÉTODO dentro da CLASSE Triangulo?
+	-Reaproveitamento de código: nós eliminamos o código repetido (cálculo das áreas dos triângulos x e y) no programa principal;
+	-Delegação de responsabilidades: quem deve ser responsável por saber como calcular a área de um triângulo é o próprio triângulo. A lógica do cálculo da área não 		deve estar em outro lugar.
