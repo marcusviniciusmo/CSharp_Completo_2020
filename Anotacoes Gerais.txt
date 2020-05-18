@@ -426,3 +426,79 @@ Execução passo-a-passo do algoritmo
 		}
 
 *Usada quando você conhece antecipadamente a quantidade de repetições;
+
+========================================== AULA 39 - CRIANDO UMA CLASSE COM TRÊS ATRIBUTOS PARA REPRESENTAR MELHOR O TRIÂNGULO ===========================================
+
+---Resolvendo o exercício da área de dois triângulos (aula anterior) usando orientação a objetos.----		Memória:
+														 _____________________
+*Discussão:													|   		      |
+Triângulo é uma entidade com três atributos: a, b, c.								| 3.00   .00   5.00   |
+Estamos usando três variáveis distintas para representar cada triângulo:					|   xA   xB     xC    |
+														|   	              |
+	double xA, xB, xC, yA, yB, yC;										|  7.50   4.50   4.02 |
+														|   yA     yB     yC  |
+Para melhorar isso, vamos utilizar uma CLASSE para representar um triângulo.                                     ---------------------
+
+==========================CLASSE:
+
+*É um tipo estruturado que pode conter (membros):
+	-Atributos (dados / campos);
+	-Métodos (funções / operações);
+
+*A classe também pode prover muitos outros recursos, tais como:
+	-Construtores;
+	-Sobrecarga;
+	-Encapsulamento;
+	-Herança;
+	-Polimorfismo;
+
+*Exemplos:
+	-Entidades: Produto, Cliente, Triângulo;
+	-Serviços: ProdutoService, ClienteService, EmailService, StorageService
+	-Controladores: ProdutoController, ClienteController
+	-Utilitátios: Calculadora, Compactador
+	-Outros: vies, repositórios, gerenciadores
+ ____________________________________________________________________________________________________________________________________________________________________
+| namespace Course																		     |
+| {																				     |
+|    class Triangulo																		     |
+|    {																				     |
+|       public double A;																	     |
+|       public double B;																	     |
+|       public double C;																	     |
+|    }																				     |
+| }																				     |
+|																				     |
+| double xA, xB, xC, yA, yB, yC;												Triangulo x, y;			     |
+|   ____      ____     ____									____ ____ ____			x = new Triangulo;		     |
+|  |    |    |    |   |    |				    				x -->  |    |    |    |			y = new Triangulo;		     |
+|  |    |    |    |   |    |				    |\   			       |    |    |    |							     |
+|   ----      ----     ----			____________|  \				---- ---- ----							     |
+|    xA        xB       xC		       |		 \				  A    B    C							     |
+|   ____      ____     ____		       |____________	 /				____ ____ ____			Agora, serão duas variáveis (x, y) e |
+|  |    |    |    |   |    |			            |  /			y -->  |    |    |    |			elas serão do tipo Triangulo.  	     |
+|  |    |    |    |   |    |				    |/				       |    |    |    |			(A classe também é um tipo de dado)  |
+|   ----      ----     ----									---- ---- ----			Objeto composto que irá conter os 3  |
+|    yA        yB       yC									  A    B    C			atributos A, B e C.		     |
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*INSTANCIAÇÃO				double areaX, areaY, P;
+(alocação dinâmica de memória):		Triangulo x, y;			-->	new Triangulo();
+ _______________________________________________________________________________________
+|   				    MEMÓRIA						|
+|    _____________________________		 ___________________________________	|
+|   |		 STACK		  |		|		HEAP		    |   |         A parte da memória chamada Stack, é onde são armazenadas as
+|   |    ____     ____     ____   |		|				    |   |         variáveis estáticas, conforme feita nas declarações.
+|   |   |    |   |    |   |    |  |		|				    |   |	  Quando o tipo de uma variável é uma classe, deve ser instanciada
+|   |   |    |   |    |   |    |  |		|				    |   |         a classe, e aí é criado na área Heap da memória, área dinâmica, o
+|   |    ----     ----     ----   |		|				    |   |	  objeto composto contendo os atributos.
+|   |   areaX     areaY      P    |		|				    |   |
+|   |				  |		|   0x100358:                       |   |	  Na variável x (dentro da área Stack), vai conter o endereço do
+|   |    ________     _________   |		|   _________ _________ _________   |   |	  objeto. Como se a variável x "apontasse" para o objeto.
+|   |   |        |   |         |  |		|  |         |         |         |  |   |	  O x é uma referência para o objeto em si.
+|   |   |        |   | 0x100358| -|-------------|->|         |         |         |  |   |
+|   |    --------     ---------   |		|   --------- --------- ---------   |   |
+|   |        x            Y       |		|        A         B         C      |   |	Classe: é a definição do tipo
+|   |-----------------------------		 -----------------------------------    |	Objetos: são instâncias da classe
+|										        |
+ ---------------------------------------------------------------------------------------
