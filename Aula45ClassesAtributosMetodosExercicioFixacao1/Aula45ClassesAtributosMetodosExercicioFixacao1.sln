@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula45ClassesAtributosMetodosExercicioFixacao1", "Aula45ClassesAtributosMetodosExercicioFixacao1\Aula45ClassesAtributosMetodosExercicioFixacao1.csproj", "{01A82D7E-2983-4F26-9213-8E5BF19CEC54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A82D7E-2983-4F26-9213-8E5BF19CEC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A82D7E-2983-4F26-9213-8E5BF19CEC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A82D7E-2983-4F26-9213-8E5BF19CEC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A82D7E-2983-4F26-9213-8E5BF19CEC54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E3EE4C7-C7D5-47A8-9446-1699AC7896CC}
+	EndGlobalSection
+EndGlobal
