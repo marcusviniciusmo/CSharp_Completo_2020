@@ -503,7 +503,7 @@ Para melhorar isso, vamos utilizar uma CLASSE para representar um triângulo.   
 |										        |
  ---------------------------------------------------------------------------------------
 
-========================================= AULA 41 - CRIANDO UM MÉTODO PARA OBTERMOS OS BENEFÍCIOSDE REAPROVEITAMENTO E DELEGAÇÃO =========================================
+======================================== AULA 41 - CRIANDO UM MÉTODO PARA OBTERMOS OS BENEFÍCIOS DE REAPROVEITAMENTO E DELEGAÇÃO =========================================
 
 *Discussão:
 Com o uso da CLASSE, agora nós temos uma variável composta do tipo "Triângulo" para representar cada triângulo:
@@ -529,3 +529,13 @@ Agora, vamos melhorar nossa CLASSE, acrescentando um MÉTODO para calcular a ár
 *Quais são os benefícios de se calcular a área de um triângulo por um meio de um MÉTODO dentro da CLASSE Triangulo?
 	-Reaproveitamento de código: nós eliminamos o código repetido (cálculo das áreas dos triângulos x e y) no programa principal;
 	-Delegação de responsabilidades: quem deve ser responsável por saber como calcular a área de um triângulo é o próprio triângulo. A lógica do cálculo da área não 		deve estar em outro lugar.
+
+====================================================================== AULA 43 - OBJECT E ToString =======================================================================
+
+*Toda classe em C# é uma subclasse da classe Object
+
+*Object possui os seguintes métodos:
+	-GetType - retorna o tipo do objeto;
+	-Equals - compara se o objeto é igual ao outro;
+	-GetHashCode - retorna um código hash do objeto;
+	-ToString - converte o objeto para string;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcus Vinícius\\source\\repos\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj": {}
+    "D:\\Marcus\\Projetos[ARRUMAR]\\C#Completo2020\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcus Vinícius\\source\\repos\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj": {
+    "D:\\Marcus\\Projetos[ARRUMAR]\\C#Completo2020\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcus Vinícius\\source\\repos\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj",
+        "projectUniqueName": "D:\\Marcus\\Projetos[ARRUMAR]\\C#Completo2020\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj",
         "projectName": "Aula42ComecandoAResolverUmSegundoProblemaExemplo",
-        "projectPath": "C:\\Users\\Marcus Vinícius\\source\\repos\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj",
+        "projectPath": "D:\\Marcus\\Projetos[ARRUMAR]\\C#Completo2020\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo.csproj",
         "packagesPath": "C:\\Users\\Marcus Vinícius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcus Vinícius\\source\\repos\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\obj\\",
+        "outputPath": "D:\\Marcus\\Projetos[ARRUMAR]\\C#Completo2020\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\Aula42ComecandoAResolverUmSegundoProblemaExemplo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

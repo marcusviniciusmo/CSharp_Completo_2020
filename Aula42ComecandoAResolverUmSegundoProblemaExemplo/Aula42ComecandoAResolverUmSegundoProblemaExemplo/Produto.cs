@@ -1,4 +1,6 @@
-﻿namespace Aula42ComecandoAResolverUmSegundoProblemaExemplo
+﻿using System.Globalization;
+
+namespace Aula42ComecandoAResolverUmSegundoProblemaExemplo
 {
     class Produto
     {
@@ -9,6 +11,12 @@
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
+        }
+
+        public override string ToString()
+        {
+            return $"{Nome}, $ {Preco.ToString("F2", CultureInfo.InvariantCulture)}, {Quantidade} unidades, Total: $ " +
+                $"{ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
