@@ -26,7 +26,24 @@ namespace Aula42ComecandoAResolverUmSegundoProblemaExemplo
             Console.Write("Quantidade no estoque: ");
             produto1.Quantidade = int.Parse(Console.ReadLine());
 
+            Console.WriteLine();
             Console.WriteLine($"Dados do produto: {produto1}");
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            int quantidadeAdicionada = int.Parse(Console.ReadLine());
+
+            Console.WriteLine();
+            produto1.AdicionarProdutos(quantidadeAdicionada);
+            Console.WriteLine($"Dados atualizados: {produto1}");
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            int quantidadeRemovida = int.Parse(Console.ReadLine());
+
+            Console.WriteLine();
+            produto1.RemoverProdutos(quantidadeRemovida);
+            Console.WriteLine($"Dados atualizados: {produto1}");
         }
     }
 }
