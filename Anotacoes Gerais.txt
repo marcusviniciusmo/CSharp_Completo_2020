@@ -572,3 +572,25 @@ Exemplo:
 |---------------------------------------------------------------
 
 * Não se pode chamar uma função que não é estática da mesma classe, dentro de uma função estática.
+
+================================================================= AULA 46 - MEMBROS ESTÁTICOS (PARTE 2) ==================================================================
+
+* SOLUÇÃO 2:
+No exemplo da solução 2, é removido a palavra 'static' dos membros da classe, e acrescentada palavra 'public' permitindo assim ser acessada pela classe principal.
+Também é necessário instanciar um objeto para a classe Calculadora.
+
+Discussão:
+ _______________________________________________________________
+| * No problema dos triângulos, cada triângulo possui sua área  |	* Já no caso da Calculadora, os valores dos cálculos não mudam para calculadoras diferentes,
+| * Area() é uma operação concernente ao objeto:		|	ou seja, são cálculos estáticos. O valor de PI é também estático.
+| y = new Triangulo();						|	
+|								|	Calculadora calc1 = new Calculadora();
+|       _____ _____ _____					|	Calculadora calc2 = new Calculadora();
+| X -> | 3.0 | 4.0 | 5.0 |		x.Area()  => 6.0000	|
+|	----- ----- -----					|	calc1 --> Pi = 3.14 => calc1.Circunferencia(3.0);
+|	  a     b     c						|	18.85
+|       _____ _____ ______					|	calc2 --> Pi = 3.14 => calc2.Circunferencia(3.0);
+| y -> | 7.5 | 4.5 | 4.02 |		y.Area()  => 7.5638	|	18.85
+|	----- ----- ------					|
+|	  a     b     c						|
+|---------------------------------------------------------------
