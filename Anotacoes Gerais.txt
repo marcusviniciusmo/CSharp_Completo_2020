@@ -539,3 +539,36 @@ Agora, vamos melhorar nossa CLASSE, acrescentando um MÉTODO para calcular a ár
 	-Equals - compara se o objeto é igual ao outro;
 	-GetHashCode - retorna um código hash do objeto;
 	-ToString - converte o objeto para string;
+
+================================================================= AULA 46 - MEMBROS ESTÁTICOS (PARTE 1) ==================================================================
+
+Uma classe possui membros, que são atributos e/ou métodos.
+
+* Também chamados membros de classe
+- Em oposição a membros e instância.
+
+* São membros que fazem sentido independentemente de objetos. Não precisam de objeto para serem chamados. São chamados a partir do próprio nome da classe.
+
+* Aplicações comuns:
+- Classes utilitárias; -- Math.Sqrt(double)
+- Declaração de constantes;
+
+* Uma classe que possui somente membros estáticos, pode ser uma classe estática também. Esta classe não poderá ser instanciada.
+
+Exemplo:
+ _______________________________________________________________
+| Triangulo x, y;						|
+| x = new Triangulo();						|	=> Não é uma operação estática. É uma operação de instância.
+| y = new Triangulo();						|	Na operação estática sempre vai dar o mesmo resultado independente do objeto.
+|								|
+|       _____ _____ _____					|
+| X -> | 3.0 | 4.0 | 5.0 |		x.Area()  => 6.0000	|
+|	----- ----- -----					|
+|	  a     b     c						|
+|       _____ _____ ______					|
+| y -> | 7.5 | 4.5 | 4.02 |		y.Area()  => 7.5638	|
+|	----- ----- ------					|
+|	  a     b     c						|
+|---------------------------------------------------------------
+
+* Não se pode chamar uma função que não é estática da mesma classe, dentro de uma função estática.
