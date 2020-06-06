@@ -594,3 +594,6 @@ Discussão:
 |	----- ----- ------					|
 |	  a     b     c						|
 |---------------------------------------------------------------
+
+* SOLUÇÃO 3:
+Não há a chamada aos métodos da classe Calculadora, através dos objetos. A chamada aos métodos ocorre diretamente pela classe.
