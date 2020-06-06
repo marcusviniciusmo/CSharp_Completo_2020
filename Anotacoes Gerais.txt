@@ -573,7 +573,7 @@ Exemplo:
 
 * Não se pode chamar uma função que não é estática da mesma classe, dentro de uma função estática.
 
-================================================================= AULA 46 - MEMBROS ESTÁTICOS (PARTE 2) ==================================================================
+================================================================= AULA 47 - MEMBROS ESTÁTICOS (PARTE 2) ==================================================================
 
 * SOLUÇÃO 2:
 No exemplo da solução 2, é removido a palavra 'static' dos membros da classe, e acrescentada palavra 'public' permitindo assim ser acessada pela classe principal.
@@ -597,3 +597,28 @@ Discussão:
 
 * SOLUÇÃO 3:
 Não há a chamada aos métodos da classe Calculadora, através dos objetos. A chamada aos métodos ocorre diretamente pela classe.
+
+========================================================================= AULA 51 - CONSTRUTORES =========================================================================
+
+* É uma operação especial da classe, que executa no momento da instanciação do objeto.
+
+* Uso comuns:
+- Iniciar os valores dos atributos;
+- Permitir ou obrigar que o objeta receba dados / dependências no momento de sua instanciação (injeção de dependência)
+
+* Se um construtor customizado não for especificado, a classe disponibiliza o construtor padrão:
+- Produto p = new Produto();
+
+* É possível especificar mais de um construtor na mesma classe (sobrecarga)
+
+Proposta de Melhoria:
+Quando executamos o comando abaixo, instanciamos um produto "p" com seus atributos "vazios":
+
+				MEMÓRIA:
+				______ ______ _____
+p = new Produto();	p -->  | null | 0.0  | 0   |
+				------ ------ -----
+				 Nome  Preço   Quantidade
+
+Entretanto, faz sentido um produto que não tem nome? Faz sentido um produto que não tem preço?
+Com o intuito de evitar a existência de produtos sem nome e sem preço é possível fazer com que seja "obrigatória" a iniciação desses valores?

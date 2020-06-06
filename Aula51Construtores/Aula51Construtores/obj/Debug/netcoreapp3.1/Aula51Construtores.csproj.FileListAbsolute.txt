@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp3.1\Aula51Construtores.exe
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp3.1\Aula51Construtores.deps.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp3.1\Aula51Construtores.runtimeconfig.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp3.1\Aula51Construtores.runtimeconfig.dev.json
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp3.1\Aula51Construtores.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\bin\Debug\netcoreapp3.1\Aula51Construtores.pdb
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp3.1\Aula51Construtores.csprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp3.1\Aula51Construtores.AssemblyInfoInputs.cache
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp3.1\Aula51Construtores.AssemblyInfo.cs
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp3.1\Aula51Construtores.dll
+D:\Marcus\Projetos[ARRUMAR]\C#Completo2020\Aula51Construtores\Aula51Construtores\obj\Debug\netcoreapp3.1\Aula51Construtores.pdb
