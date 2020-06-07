@@ -15,6 +15,13 @@ namespace Aula51Construtores
             Quantidade = quantidade;
         }
 
+        public Produto(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 0; // Opcional, pois por padrão é atribuído o valor 0 para variáveis do tipo inteiro.
+        }
+
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;

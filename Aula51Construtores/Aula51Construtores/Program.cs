@@ -12,10 +12,11 @@ namespace Aula51Construtores
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            int quantidade = int.Parse(Console.ReadLine());
+            //Console.Write("Quantidade no estoque: ");
+            //int quantidade = int.Parse(Console.ReadLine());
 
-            Produto prod = new Produto(nome, preco, quantidade);
+            // Produto prod = new Produto(nome, preco, quantidade); --- Construtor de 3 argumentos.
+            Produto prod = new Produto(nome, preco);
 
             Console.WriteLine();
             Console.WriteLine($"Dados do produto: {prod}");

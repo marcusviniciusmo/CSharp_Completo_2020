@@ -622,3 +622,11 @@ p = new Produto();	p -->  | null | 0.0  | 0   |
 
 Entretanto, faz sentido um produto que não tem nome? Faz sentido um produto que não tem preço?
 Com o intuito de evitar a existência de produtos sem nome e sem preço é possível fazer com que seja "obrigatória" a iniciação desses valores?
+
+========================================================================== AULA 52 - SOBRECARGA ==========================================================================
+
+* É um recurso que uma classe possui de oferecer mais de uma operação com o mesmo nome, porém com diferentes listas de parâmetros;
+
+* Proposta de melhoria:
+- Vamos criar um construtor opcional, o qual recebe apenas o nome e preço do produto. A quantidade em estoque deste novo produto, por padrão, deverá então ser iniciada com o valor zero;
+- NOTA: é possível também incluir um construtor padrão (sem parâmetros);
