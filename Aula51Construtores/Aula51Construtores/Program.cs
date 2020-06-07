@@ -18,6 +18,10 @@ namespace Aula51Construtores
             // Produto prod = new Produto(nome, preco, quantidade); --- Construtor de 3 argumentos.
             Produto prod = new Produto(nome, preco);
 
+            Produto prod2 = new Produto(); //  Construtor padrão
+
+            Produto prod3 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 20 }; // Construtor alternativo
+
             Console.WriteLine();
             Console.WriteLine($"Dados do produto: {prod}");
 

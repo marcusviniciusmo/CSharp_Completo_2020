@@ -630,3 +630,21 @@ Com o intuito de evitar a existência de produtos sem nome e sem preço é poss�
 * Proposta de melhoria:
 - Vamos criar um construtor opcional, o qual recebe apenas o nome e preço do produto. A quantidade em estoque deste novo produto, por padrão, deverá então ser iniciada com o valor zero;
 - NOTA: é possível também incluir um construtor padrão (sem parâmetros);
+
+=========================================================== AULA 53 - SINTAXE ALTERNATIVA PARA INICIAR VALORES ===========================================================
+
+Produto p1 = new Produto {
+    Nome  = "TV",				exemplo 1 - sem parênteses
+    Preco = 900.00,
+    Quantidade = 0
+};
+
+Produto p2 = new Produto() {
+    Nome  = "TV",				exemplo 2 - com parênteses
+    Preco = 900.00,
+    Quantidade = 0
+};
+
+Isso funciona mesmo se a classe não possuir construtores implementados.
+
+*DICA: ao digitar o novo objeto e chegar nas chaves, se digitar CTRL + Espaço, o Visual Studio completa os atributos automaticamente.

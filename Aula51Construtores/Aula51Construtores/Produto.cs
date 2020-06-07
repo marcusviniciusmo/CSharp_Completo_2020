@@ -8,6 +8,8 @@ namespace Aula51Construtores
         public double Preco;
         public int Quantidade;
 
+        public Produto() { }
+
         public Produto(string nome, double preco, int quantidade)
         {
             Nome = nome;
