@@ -648,3 +648,39 @@ Produto p2 = new Produto() {
 Isso funciona mesmo se a classe não possuir construtores implementados.
 
 *DICA: ao digitar o novo objeto e chegar nas chaves, se digitar CTRL + Espaço, o Visual Studio completa os atributos automaticamente.
+
+========================================================================= AULA 54 - PALAVRA THIS =========================================================================
+
+* È uma referência para o próprio objeto.
+
+* Usos comuns:
+- Diferenciar atributos de variáveis locais (Java);
+- Referenciar outro construtor em um construtor;
+- Passar o próprio objeto como argumento na chamada de um método ou construtor;
+
+		Diferenciar atributos de variáveis locais:
+
+Produto p = new Produto("TV", 1500.00);		public Produto(string Nome, double Preco){
+						   this.Nome = Nome;
+					==>	   this.Preco = Preco;
+						   Quantidade = 0;
+						}
+ _______________________________________________________________________________________
+|   				    MEMÓRIA						|
+|    _____________________________		 ___________________________________	|
+|   |		 STACK		  |		|		HEAP		    |   |         Se os atributos foram colocados com letra maiúscula, e os 
+|   |   ______________________	  |		|				    |   |         parâmetros do construtor também foram colocados como letras
+|   |  |(escopo do construtor)|	  |		|				    |   |	  maiúsculas, como saber o que é parâmetro, e o que é atributo?
+|   |  |      ________	      |	  |		|				    |   |         
+|   |  |     |  "TV"  |	      |   |		|				    |   |	  Nesse caso, deve-se usar a palavra 'this'
+|   |  |      --------	      |	  |		|				    |   |
+|   |  |        Nome	      |	  |		|   		                    |   |	  Sem a palavra 'this', o compilador vai priorizar a variável local,	  
+|   |  |  		      |	  |		|   _________ _________ _________   |   |	  que no exemplo é o parâmetro que chegou.
+|   |  |     _________	      |	  |		|  |         |         |         |  |   |	  
+|   |  |    | 1500.00 |	      |p -|-------------|->|         |         |         |  |   |
+|   |  |     ---------	      |	  |		|   --------- --------- ---------   |   |	 
+|   |  |      Preco           |   |		|     Nome     Preco      Quantidade|   |
+|   |	----------------------    |		|				    |   |
+|    -----------------------------		 -----------------------------------    |	
+|										        |
+ ---------------------------------------------------------------------------------------

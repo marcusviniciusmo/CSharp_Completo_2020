@@ -8,7 +8,10 @@ namespace Aula51Construtores
         public double Preco;
         public int Quantidade;
 
-        public Produto() { }
+        public Produto() 
+        {
+            Quantidade = 10;
+        }
 
         public Produto(string nome, double preco, int quantidade)
         {
@@ -17,7 +20,7 @@ namespace Aula51Construtores
             Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco) : this()
         {
             Nome = nome;
             Preco = preco;
