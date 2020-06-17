@@ -705,3 +705,16 @@ Produto p = new Produto("TV", 1500.00);		public Produto(string Nome, double Prec
 
 • https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/properties
 	- Uma propriedade é um membro que oferece um mecanismo flexível para ler, gravar ou calcular o valor de um campo em particular. As propriedades podem ser usadas 	como se fossem atributos públicos, mas na verdade elas são métodos especiais chamados "acessadores". Isso permite que os dados sejam acessados facilmente e ainda 	ajuda a promover a segurança e a flexibilidade dos métodos.
+
+======================================================================= AULA 56 - AUTO PROPERTIES =======================================================================
+
+* Propriedades autoimplementadas
+- É uma forma simplificada de declarar propriedades que não necessitam lógicas particulares para as operações get e set.
+
+public double Preco {get; private set; }
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties
+
+DICA:
+um atalho para não precisar digitar toda a linha é:
+escrever prop  e pressionar TAB + TAB
