@@ -718,3 +718,12 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-str
 DICA:
 um atalho para não precisar digitar toda a linha é:
 escrever prop  e pressionar TAB + TAB
+
+==================================================== AULA 57 - ORDEM SUGERIDA PARA IMPLEMENTAÇÃO DE MEMBROS DA CLASSE ====================================================
+
+Ordem Sugerida:
+- Atributos privados;
+- Propriedades automimplementadas;
+- Construtores;
+- Propriedades customizadas;
+- Outros métodos da classe;
