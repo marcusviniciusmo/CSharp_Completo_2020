@@ -698,3 +698,10 @@ Produto p = new Produto("TV", 1500.00);		public Produto(string Nome, double Prec
 * Um atributo private indica que ele não pode ser acessado por outra classe.
 * Quando se trabalha com atributos privados, usa-se outra convenção para nomes:
 	-exemplos: _nome (inicia com underline e a letra minúscula)
+
+========================================================================== AULA 56 - PROPERTIES ==========================================================================
+
+* São definições de métodos encapsulados, porém expondo uma sintaxe similar à de atributos e não de métodos.
+
+• https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/properties
+	- Uma propriedade é um membro que oferece um mecanismo flexível para ler, gravar ou calcular o valor de um campo em particular. As propriedades podem ser usadas 	como se fossem atributos públicos, mas na verdade elas são métodos especiais chamados "acessadores". Isso permite que os dados sejam acessados facilmente e ainda 	ajuda a promover a segurança e a flexibilidade dos métodos.

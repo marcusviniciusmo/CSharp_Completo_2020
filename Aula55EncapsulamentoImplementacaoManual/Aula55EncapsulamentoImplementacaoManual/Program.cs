@@ -9,12 +9,12 @@ namespace Aula55EncapsulamentoImplementacaoManual
         {
             Produto produto1 = new Produto("TV", 500.00, 10);
 
-            Console.WriteLine(produto1.GetNome());
+            Console.WriteLine(produto1.Nome);
 
-            produto1.SetNome("TV 4K");
+            produto1.Nome = "TV 4K";
 
-            Console.WriteLine(produto1.GetNome());
-            Console.WriteLine(produto1.GetPreco().ToString("F2",CultureInfo.InvariantCulture));
+            Console.WriteLine(produto1.Nome);
+            Console.WriteLine(produto1.Preco.ToString("F2",CultureInfo.InvariantCulture));
         }
     }
 }
