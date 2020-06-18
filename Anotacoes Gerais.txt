@@ -706,7 +706,7 @@ Produto p = new Produto("TV", 1500.00);		public Produto(string Nome, double Prec
 • https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/properties
 	- Uma propriedade é um membro que oferece um mecanismo flexível para ler, gravar ou calcular o valor de um campo em particular. As propriedades podem ser usadas 	como se fossem atributos públicos, mas na verdade elas são métodos especiais chamados "acessadores". Isso permite que os dados sejam acessados facilmente e ainda 	ajuda a promover a segurança e a flexibilidade dos métodos.
 
-======================================================================= AULA 56 - AUTO PROPERTIES =======================================================================
+======================================================================= AULA 57 - AUTO PROPERTIES =======================================================================
 
 * Propriedades autoimplementadas
 - É uma forma simplificada de declarar propriedades que não necessitam lógicas particulares para as operações get e set.
@@ -719,7 +719,7 @@ DICA:
 um atalho para não precisar digitar toda a linha é:
 escrever prop  e pressionar TAB + TAB
 
-==================================================== AULA 57 - ORDEM SUGERIDA PARA IMPLEMENTAÇÃO DE MEMBROS DA CLASSE ====================================================
+==================================================== AULA 58 - ORDEM SUGERIDA PARA IMPLEMENTAÇÃO DE MEMBROS DA CLASSE ====================================================
 
 Ordem Sugerida:
 - Atributos privados;
@@ -727,3 +727,34 @@ Ordem Sugerida:
 - Construtores;
 - Propriedades customizadas;
 - Outros métodos da classe;
+
+=================================================================== AULA 59 - MODIFICADORES DE ACESSO ===================================================================
+
+• https://docs.microsoft.com/en-us/dotnet/csharp/languagereference/keywords/access-modifiers
+
+* Membros:
+ _____________________________________________________________________________________________________________________________________________
+|                    | própria classe | subclasses do assembly | classes do assembly | sublcasses fora do assembly | classes fora do assembly |
+|--------------------|----------------|------------------------|---------------------|-----------------------------|--------------------------|
+|       public       |        X       |            X           |          X          |              X              |             X            |
+|--------------------|----------------|------------------------|---------------------|-----------------------------|--------------------------|
+| protected internal |        X       |            X           |          X          |              X              |                          |
+|--------------------|----------------|------------------------|---------------------|-----------------------------|--------------------------|
+|      internal      |        X       |            X           |          X          |                             |                          |
+|--------------------|----------------|------------------------|---------------------|-----------------------------|--------------------------|
+|      protected     |        X       |            X           |                     |              X              |                          |
+|--------------------|----------------|------------------------|---------------------|-----------------------------|--------------------------|
+| private protected  |        X       |            X           |                     |                             |                          |
+|--------------------|----------------|------------------------|---------------------|-----------------------------|--------------------------|
+|       private      |        X       |                        |                     |                             |                          |
+ -------------------------------------|------------------------|---------------------|-----------------------------|--------------------------|
+
+* Classes:
+- Acesso por qualquer classe
+	public class Product
+- Acesso somente dentro do assembly
+	internal class Product
+	class Product
+- Acesso somente pela classe-mãe
+	private class Product
+	Nota: classe aninhada, por padrão, é private
