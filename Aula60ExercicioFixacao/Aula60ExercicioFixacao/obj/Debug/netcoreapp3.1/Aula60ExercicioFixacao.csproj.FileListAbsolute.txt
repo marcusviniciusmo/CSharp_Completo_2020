@@ -1,0 +1,11 @@
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula60ExercicioFixacao.exe
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula60ExercicioFixacao.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula60ExercicioFixacao.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula60ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula60ExercicioFixacao.dll
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula60ExercicioFixacao.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula60ExercicioFixacao.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula60ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula60ExercicioFixacao.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula60ExercicioFixacao.dll
+C:\Users\Marcus Vinícius\source\repos\Aula60ExercicioFixacao\Aula60ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula60ExercicioFixacao.pdb
