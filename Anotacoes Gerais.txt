@@ -758,3 +758,82 @@ Ordem Sugerida:
 - Acesso somente pela classe-mãe
 	private class Product
 	Nota: classe aninhada, por padrão, é private
+
+================================================================ AULA 66 - TIPOS REFERÊNCIA E TIPOS VALOR ================================================================
+
+* Classes são tipos referência:
+Variáveis cujo tipo são classes não devem ser entendidas como caixas, mas sim "tentáculos" (ponteiros) para caixas.
+					 _________________________________________
+Product p1, p2;				|		MEMÓRIA	                  |
+					|  _____________      __________________  |	Se for feito:
+p1 = new Product("TV", 900.00, 0);	| |   STACK     |    |     HEAP         | |	
+					| |  ________   |    |                  | |	p2 = p1;
+					| | |0x100358|  |    | 0X100358:        | |
+					| | |        |  |    |  ______________  | |	"p2 passa a apontar para onde p1 aponta"
+					| |  --------   |    | | TV | 900 | 0 | | |
+					| |     p1      |    | |    |     |   | | |
+					| |	        |    |  --------------  | |
+					|  -------------      ------------------  |
+					 ----------------------------------------- 
+
+* Valor "null" 
+Tipos referência aceitam o valor "null", que indica que a variável aponta pra ninguém.
+
+p2 = null;
+
+* Structs são tipos valor
+A linguagem C# possui também tipos valor, que são os "structs". Structs são CAIXAS e não ponteiros. Tipos valor são os tipos básicos (int, float, bool etc.). Também entram nesse tipo o DateTime, TimeSpan.
+					 _________________________________________
+double x, y;				|		MEMÓRIA	                  |
+					|  _____________      __________________  |	Se for feito:
+x = 10                 			| |   STACK     |    |     HEAP         | |	
+					| |  ________   |    |                  | |	y = x;
+					| | |   10   |  |    |                  | |
+					| | |        |  |    |                  | |	"y recebe uma cópia de x"
+					| |  --------   |    |                  | |
+					| |     x       |    |                  | |
+					| |	        |    |                  | |
+					|  -------------      ------------------  |
+					 ----------------------------------------- 
+
+* É possível criar seus próprios structs. O Struct é parecido com a classe, mas com algumas diferenças.
+namespace Course {
+   struct Point {
+   
+	public double X, Y;
+   
+   	public override string ToString(){
+   	   return "(" + X + "," + Y + ")";
+	}
+   }
+}
+
+* Valores Padrão
+- Quando alocamos (new) qualquer tipo estruturado (classe, struct, array), são atribuídos valores padrão aos seus elementos.
+	- números: 0
+	- bool: False
+	- char: caractere código 0
+	- objeto: null
+
+- Lembrando: uma variável apenas declarada, mas não instanciada, inicia em estado "não atribuída", e o próprio compilador não permite que ela seja acessada.
+
+* Tipos Referência vs Tipos Valor
+ _________________________________________________________________________________________________________________________________________________________________________
+|					CLASSE					      |					STRUCT						  |
+|_____________________________________________________________________________________|___________________________________________________________________________________|
+|Vantagem: usufrui de todos os recursos OO					      |Vantagem: é mais simples e mais performático					  |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|Variáveis são ponteiros							      |Variáveis são caixas								  |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|Objetos precisam ser instanciados usando new, ou apontar para um objeto já existente |Não é preciso instanciar usando new, mas é possível				  |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|Aceita valor null								      |Não aceita valor null								  |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|Suporte a herança								      |não tem suporte a herança (mas pode implementar interfaces)			  |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|Y = X; "Y passa a apontar para onde X aponta"					      |Y = X; "Y recebe uma cópia de X"							  |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|Objetos instanciados no heap							      |Objetos instanciados no stack							  |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|Objetos não utilizados são desalocados em um momento próximo pelo garbage collector  |"Objetos" são desalocados imediatamente quando seu escopo de execução é finalizado |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------

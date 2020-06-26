@@ -1,0 +1,11 @@
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\bin\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.exe
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\bin\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\bin\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\bin\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\bin\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.dll
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\bin\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\obj\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\obj\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\obj\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\obj\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.dll
+C:\Users\Marcus Vinícius\source\repos\Aula66TipoReferenciaETiposValor\Aula66TipoReferenciaETiposValor\obj\Debug\netcoreapp3.1\Aula66TipoReferenciaETiposValor.pdb
