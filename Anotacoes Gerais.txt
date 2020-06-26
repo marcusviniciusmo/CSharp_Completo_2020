@@ -837,3 +837,51 @@ namespace Course {
 |-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 |Objetos não utilizados são desalocados em um momento próximo pelo garbage collector  |"Objetos" são desalocados imediatamente quando seu escopo de execução é finalizado |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+================================================== AULA 67 - DESALOCAÇÃO DE MEMÓRIA - GARBAGE COLLECTOR E ESCOPO LOCAL ==================================================
+
+* Garbage Collecctor
+- É um processo que automatiza o gerenciamento de memória de um programa em execução.
+- O Garbage Collector monitora os objetos alocados dinamicamente pelo programa (no heap), desalocando aqueles que não estão mais sendo utilizados.
+
+* Desalocação por Garbage Collector
+					 _________________________________________
+Product p1, p2;				|		MEMÓRIA	                  |
+					|  _____________      __________________  |	Se for feito:
+p1 = new Product("TV", 900.00, 0);	| |   STACK     |    |     HEAP         | |	
+					| |             |    |  ______________  | |	p1 = p2;
+p2 = new Product("Mouse", 30.00, 0	| |         	|    | | TV | 900 | 0 | | |
+					| | 	    p1	------>|    |     |   | | |	"p1 passa a apontar para onde p2 aponta"
+					| |  		|    |  --------------	| |
+					| |             |    |  ______________  | |	
+					| |         	|    | |Mouse | 30 | 0| | |	Será desalocado no heap o objeto ("TV", 900.00, 0) pelo garbage collector
+					| | 	    p2	------>|      |    |  | | |    
+					| |	        |    |  --------------  | |
+					|  -------------      ------------------  |
+					 ----------------------------------------- 
+
+* Desalocação por escopo
+					 __________________________________________
+void method1() {			|		      MEMÓRIA              |
+    int x - 10;				|  ___________________      _____________  |	O escopo method1 tem seu escopo, e dentro dele, tem a variável x valendo 10.
+    if (x > 0) {			| |   STACK           |    |     HEAP    | |	
+    	int y = 20;			| |  _______________  |    |             | |	Quando a execução chegar dentro do comando if,
+    }					| | | method1 scope | |    |             | |	vai ser criada uma variável y, valendo 20.
+}					| | |  ______       | |    |             | |	Esse y, vai estar dentro do escopo do if, que por sua vez, vai estar
+					| | | |	 10  |	    | |    | 		 | |	dentro do escopo do method1
+					| | |  ------       | |    |  		 | |	
+					| | |    x          | |	   |		 | |	Quando a execução sair do comando if, automaticamente a variável y,
+					| | |  ___________  | |	   |   		 | |    será desalocada.
+					| | | |  if scope | | |    |		 | |
+					| | | |   ______  | | |    |		 | |
+					| | | |  |  20  | | | |    |		 | |
+					| | | |   ------  | | |    |		 | |
+					| | | |      y    | | |    |		 | |
+					| | |  -----------  | |    |		 | |
+					| | |---------------| |    |		 | |
+					|  -------------------      -------------  |
+					 ------------------------------------------ 
+
+* Resumo:
+- Objetos alocados dinamicamente, quando não possuem mais referência para eles, serão desalocados pelo Garbage Collector.
+- Variáveis locais são desalocadas imediatamente assim que seu escopo local sai de execução.
