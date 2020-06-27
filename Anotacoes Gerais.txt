@@ -885,3 +885,26 @@ void method1() {			|		      MEMÓRIA              |
 * Resumo:
 - Objetos alocados dinamicamente, quando não possuem mais referência para eles, serão desalocados pelo Garbage Collector.
 - Variáveis locais são desalocadas imediatamente assim que seu escopo local sai de execução.
+
+=========================================================================== AULA 68 - NULLABLE ===========================================================================
+
+- É um recurso do C# para que dados de tipo valor (struct) possam receber o valor null
+- Uso comum:
+	- Campos de banco de dados que podem valer nulo (data de nascimento, algum valor numérico, etc.)
+	- Dados e parâmetros opcionais.
+
+* Demo:
+double x = null; /// Erro
+Nullable<double> x = null; // Correto, mas pode ser simplificado
+double? x = null;
+
+* Métodos
+	- GetValueOrDefault
+	- HasValue
+	- Value (lança uma exceção se não houver valor)
+
+* Operador de coalescência nula
+• https://docs.microsoft.com/en-us/dotnet/csharp/languagereference/operators/null-conditional-operator
+	double? x = null;
+	double y = x ?? 0.0;
+	- Como a variável y não é nula, na atribuição de y, caso o valor de x seja diferente de nulo, é atribuído o valor de x na variável y. Se o valor de x for nulo, é 	atribuído o valor que está no lado direito (no exemplo, será atribuído 0.0).
