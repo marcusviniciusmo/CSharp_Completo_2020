@@ -923,3 +923,7 @@ double? x = null;
 * Desvantagens:
 	- Tamanho fixo;
 	- Dificuldade para se realizar inserções e deleções;
+
+====================================================================== AULA 70 - VETORES (PARTE 2) ======================================================================
+
+Quando é criado um vetor de classes, antes de atribuir valores aos atributos dos objetos, é necessário instanciar cada objeto.

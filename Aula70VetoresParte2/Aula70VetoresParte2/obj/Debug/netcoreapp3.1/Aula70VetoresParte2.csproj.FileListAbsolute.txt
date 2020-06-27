@@ -1,0 +1,11 @@
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\bin\Debug\netcoreapp3.1\Aula70VetoresParte2.exe
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\bin\Debug\netcoreapp3.1\Aula70VetoresParte2.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\bin\Debug\netcoreapp3.1\Aula70VetoresParte2.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\bin\Debug\netcoreapp3.1\Aula70VetoresParte2.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\bin\Debug\netcoreapp3.1\Aula70VetoresParte2.dll
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\bin\Debug\netcoreapp3.1\Aula70VetoresParte2.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\obj\Debug\netcoreapp3.1\Aula70VetoresParte2.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\obj\Debug\netcoreapp3.1\Aula70VetoresParte2.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\obj\Debug\netcoreapp3.1\Aula70VetoresParte2.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\obj\Debug\netcoreapp3.1\Aula70VetoresParte2.dll
+C:\Users\Marcus Vinícius\source\repos\Aula70VetoresParte2\Aula70VetoresParte2\obj\Debug\netcoreapp3.1\Aula70VetoresParte2.pdb
