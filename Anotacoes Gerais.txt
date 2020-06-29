@@ -1029,3 +1029,20 @@ Similar ao modificador ref (faz o parâmetro ser uma referência para a variáve
 Sintaxe opcional e simplificada para percorrer coleções.
 Leitura: "para cada objeto 'obj' contido em vect, faça:"
 	- 'obj' --> é um apelido (alias)
+
+==================================================================== AULA 76 - LISTAS (LIST) - PARTE 1 ===================================================================
+
+• Lista é uma estrutura de dados:
+	• Homogênea (dados do mesmo tipo)
+	• Ordenada (elementos acessados por meio de posições)
+	• Inicia vazia, e seus elementos são alocados sob demanda
+	• Cada elemento ocupa um "nó" (ou nodo) da lista
+
+• Classe: List
+• Namespace: System.Collections.Generic
+
+• Vantagens:
+	• Tamanho variável
+	• Facilidade para se realizar inserções e deleções
+• Desvantagens:
+	• Acesso sequencial aos elementos *
