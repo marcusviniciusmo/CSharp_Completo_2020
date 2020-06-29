@@ -1023,3 +1023,9 @@ Similar ao modificador ref (faz o parâmetro ser uma referência para a variáve
 	int y = (int) obj;
 
 É criada uma variável na área Stack da memória recebendo o valor que foi instanciado na área Heap. Nesse exemplo, foi necessário fazer um casting.
+
+================================================================ AULA 75 - SINTAXE OPCIONAL: LAÇO FOREACH ================================================================
+
+Sintaxe opcional e simplificada para percorrer coleções.
+Leitura: "para cada objeto 'obj' contido em vect, faça:"
+	- 'obj' --> é um apelido (alias)
