@@ -970,3 +970,27 @@ namespace Course								using System;
 											}
 										    }
 										}
+
+============================================================== AULA 73 - MODIFICADORES DE PARÂMETROS REF E OUT ===========================================================
+
+* Modificador ref
+Suponha que se queira uma calculadora com uma operação para triplicar o valor de um número passado como parâmetro. A seguir uma solução que não funciona:
+ _______________________________________________________________________________________________________________________________________________________________
+|	class Calculator {					|		class Program {									|
+|								|		    static void Main (string[] args) {						|
+|	    public static void Triple(int x) {			|			int a = 10;								|
+|		x = x * 3;					|			Calculator.Triple(a);							|
+|	    }							|			Console.WriteLine(a);							|
+|	}							|		    }										|
+|								|		}										|
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXPLICAÇÃO:
+A execução do programa vai para a função Triple da classe Calculator, e cria um escopo provisório para a função Triple com o parâmetro x valendo 10. O valor de x é calculado dentro do escopo da função Triple. Quando a função terminar de executar, o programa vai voltar para a função principal, e o valor de x não será alterado.
+Para criar uma função que receba um parâmetro e que seja capaz de alterar esse valor, deve-se incluir a palavra "ref", tanto na chamada da função, quanto na declaração:
+ _______________________________________________________________________________________________________________________________________________________________
+|	    public static void Triple(ref int x) {		|			int a = 10;								|
+|		x = x * 3;					|			Calculator.Triple(ref a);						|
+|	    }							|			Console.WriteLine(a);							|
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fazendo isso, não é passado um valor, e sim uma referência da variável original.
