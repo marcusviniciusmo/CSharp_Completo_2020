@@ -1006,3 +1006,20 @@ Similar ao modificador ref (faz o parâmetro ser uma referência para a variáve
 - Conclusão: ambos são muito similares, mas ref é uma forma de fazer o compilador obrigar o usuário a iniciar a variável.
 
 - Nota: ambos são considerados "code smells" (design ruim) e devem ser evitados.
+
+======================================================================== AULA 74 - BOXING E UNBOXING =====================================================================
+
+* Boxing
+É o processo de conversão de um objeto do tipo valor para um objeto tipo referência compatível:
+	int x = 20;
+	Object obj = x;
+
+é criada dentro da área Stack uma variável com valor 20. O tipo Object (é do tipo referência, é uma classe) cria uma referência para um novo objeto instanciado na área Heap da memória. Apesar de ser permitido, é uma operação que tem um custo de processamento.
+
+* Unboxing
+É o processo de conversão de um objeto tipo referência para um objeto tipo valor compatível:
+	int x = 20;
+	Object obj = x;
+	int y = (int) obj;
+
+É criada uma variável na área Stack da memória recebendo o valor que foi instanciado na área Heap. Nesse exemplo, foi necessário fazer um casting.
