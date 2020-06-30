@@ -1,0 +1,12 @@
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.exe
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.dll
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\bin\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.dll
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula81ExercicioFixacaoMatrizes\Aula81ExercicioFixacaoMatrizes\obj\Debug\netcoreapp3.1\Aula81ExercicioFixacaoMatrizes.genruntimeconfig.cache
