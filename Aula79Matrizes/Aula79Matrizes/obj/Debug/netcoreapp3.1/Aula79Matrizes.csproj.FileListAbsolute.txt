@@ -1,0 +1,12 @@
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\bin\Debug\netcoreapp3.1\Aula79Matrizes.exe
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\bin\Debug\netcoreapp3.1\Aula79Matrizes.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\bin\Debug\netcoreapp3.1\Aula79Matrizes.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\bin\Debug\netcoreapp3.1\Aula79Matrizes.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\bin\Debug\netcoreapp3.1\Aula79Matrizes.dll
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\bin\Debug\netcoreapp3.1\Aula79Matrizes.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\obj\Debug\netcoreapp3.1\Aula79Matrizes.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\obj\Debug\netcoreapp3.1\Aula79Matrizes.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\obj\Debug\netcoreapp3.1\Aula79Matrizes.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\obj\Debug\netcoreapp3.1\Aula79Matrizes.dll
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\obj\Debug\netcoreapp3.1\Aula79Matrizes.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula79Matrizes\Aula79Matrizes\obj\Debug\netcoreapp3.1\Aula79Matrizes.genruntimeconfig.cache
