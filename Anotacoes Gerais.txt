@@ -1070,3 +1070,10 @@ Leitura: "para cada objeto 'obj' contido em vect, faça:"
 • Desvantagens:
 	• Tamanho fixo
 	• Dificuldade para se realizar inserções e deleções
+
+=============================================================== AULA 85 - INFERÊNCIA DE TIPOS: PALAVRA VAR ===============================================================
+
+	var x = 10;
+A variável x vale 10, e o tipo dela será inferido conforme ela for incializada.
+
+Observação: o uso da palavra 'var' é uma comodidade para o programador, porém, o uso desordenado pode causar falhas, como por exemplo, uma variável inteira declarada como var, pode receber uma string que o compilador não irá rejeitar.
