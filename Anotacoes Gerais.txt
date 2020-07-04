@@ -1077,3 +1077,7 @@ Leitura: "para cada objeto 'obj' contido em vect, faça:"
 A variável x vale 10, e o tipo dela será inferido conforme ela for incializada.
 
 Observação: o uso da palavra 'var' é uma comodidade para o programador, porém, o uso desordenado pode causar falhas, como por exemplo, uma variável inteira declarada como var, pode receber uma string que o compilador não irá rejeitar.
+
+=============================================================== AULA 86 - SINTAXE ALTERNATIVA: SWITCH-CASE ===============================================================
+
+Estrutura opcional a vários if-else encadeados, quando a condição envolve o teste do valor de uma variável.
