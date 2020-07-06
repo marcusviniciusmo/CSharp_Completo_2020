@@ -1081,3 +1081,10 @@ Observação: o uso da palavra 'var' é uma comodidade para o programador, poré
 =============================================================== AULA 86 - SINTAXE ALTERNATIVA: SWITCH-CASE ===============================================================
 
 Estrutura opcional a vários if-else encadeados, quando a condição envolve o teste do valor de uma variável.
+
+====================================================== AULA 87 - SINTAXE ALTERNATIVA: EXPRESSÃO CONDICIONAL TERNÁRIA =====================================================
+
+Estrutura opcional ao if-else quando se deseja decidir um VALOR com base em uma condição
+
+* Sintaxe:
+	(condição) ? valor_se_verdadeiro : valor_se_falso
