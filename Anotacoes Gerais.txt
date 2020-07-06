@@ -1088,3 +1088,28 @@ Estrutura opcional ao if-else quando se deseja decidir um VALOR com base em uma 
 
 * Sintaxe:
 	(condição) ? valor_se_verdadeiro : valor_se_falso
+
+============================================================= AULA 89 - DATETIME - REPRESENTANDO DATA E HORA =============================================================
+
+* Representa um INSTANTE
+* É um tipo valor (struct)
+
+* Representação interna:
+	- Um objeto DateTime internamente armazena:
+		* O número de "ticks" (100 nanosegundos) desde a meia noite do dia 1 de janeiro do ano 1 da era comum.
+
+	DateTime d1 = DateTime.Now;
+	Console.WriteLine(d1);
+	Console.WriteLine(d1.Ticks);
+
+* Instanciação:
+-Construtores:
+	- DateTime(ano, mes dia);
+	- DateTime(ano, mes dia, hora, minuto, segundo);
+	- DateTime(ano, mes dia, hora, minuto, segundo, milisegundo);
+-Builders:
+	- DateTime.Now;
+	- DateTime.UtcNow;
+	- DateTime.Today;
+	- DateTime.Parse(string);
+	- DateTime.ParseExact(string, string);
