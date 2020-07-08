@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula93PadraoISO8601/1.0.0": {
+        "runtime": {
+          "Aula93PadraoISO8601.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula93PadraoISO8601/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
