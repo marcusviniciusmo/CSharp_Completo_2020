@@ -1125,3 +1125,14 @@ Estrutura opcional ao if-else quando se deseja decidir um VALOR com base em uma 
 	TimeSpan t1 = new TimeSpan(0, 1, 30);
 	Console.WriteLine(t1);
 	Console.WriteLine(ti.Ticks);
+
+================================================================ AULA 93 - DATETIMEKIND E PADRÃO ISO 8601 -===============================================================
+
+Tipo enumerado especial que define três valores possíveis para a localidade da data:
+	• Local [fuso horário do sistema. Exemplo: São Paulo = GMT -3]
+	• Utc [fuso horário GMT (Greenwich Mean Time)]
+	• Unspecified
+
+* Boa Prática:
+	• Armazenar em formato UTC (texto: BD / Json / XML)
+	• Instanciar e mostrar em formato Local

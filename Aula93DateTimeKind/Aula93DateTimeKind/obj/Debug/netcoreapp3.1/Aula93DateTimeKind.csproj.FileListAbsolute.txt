@@ -1,0 +1,12 @@
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\bin\Debug\netcoreapp3.1\Aula93DateTimeKind.exe
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\bin\Debug\netcoreapp3.1\Aula93DateTimeKind.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\bin\Debug\netcoreapp3.1\Aula93DateTimeKind.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\bin\Debug\netcoreapp3.1\Aula93DateTimeKind.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\bin\Debug\netcoreapp3.1\Aula93DateTimeKind.dll
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\bin\Debug\netcoreapp3.1\Aula93DateTimeKind.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\obj\Debug\netcoreapp3.1\Aula93DateTimeKind.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\obj\Debug\netcoreapp3.1\Aula93DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\obj\Debug\netcoreapp3.1\Aula93DateTimeKind.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\obj\Debug\netcoreapp3.1\Aula93DateTimeKind.dll
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\obj\Debug\netcoreapp3.1\Aula93DateTimeKind.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula93DateTimeKind\Aula93DateTimeKind\obj\Debug\netcoreapp3.1\Aula93DateTimeKind.genruntimeconfig.cache
