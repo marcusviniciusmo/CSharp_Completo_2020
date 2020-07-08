@@ -1,0 +1,12 @@
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\bin\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.exe
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\bin\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\bin\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\bin\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\bin\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.dll
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\bin\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\obj\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\obj\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\obj\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\obj\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.dll
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\obj\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula92OperacoesTimeSpan\Aula92OperacoesTimeSpan\obj\Debug\netcoreapp3.1\Aula92OperacoesTimeSpan.genruntimeconfig.cache
