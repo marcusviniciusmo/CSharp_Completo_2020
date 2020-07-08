@@ -1,0 +1,12 @@
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\bin\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.exe
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\bin\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.deps.json
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\bin\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.runtimeconfig.json
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\bin\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.runtimeconfig.dev.json
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\bin\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.dll
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\bin\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\obj\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.csprojAssemblyReference.cache
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\obj\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\obj\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\obj\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.dll
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\obj\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.pdb
+C:\Users\Marcus Vinícius\source\repos\Aula91PropriedadesDateTime\Aula91PropriedadesDateTime\obj\Debug\netcoreapp3.1\Aula91PropriedadesDateTime.genruntimeconfig.cache
