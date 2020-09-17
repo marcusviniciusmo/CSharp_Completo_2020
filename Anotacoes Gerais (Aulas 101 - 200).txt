@@ -3,3 +3,9 @@
 Se você esquecer de especificar a mensagem do commit, o Git Bash vai abrir o VIM para a edição.
 Para sair do VIM, tecle 'ESC' e depois digite:
 	:q!
+
+========================================= AULA 102 - E SE EU ME PERDER E QUISER VOLTAR AO ESTADO DO COMMIT ATUAL? ==========================================
+
+Descartar todas as modificações, voltando ao estado do commit atual:
+	git clean -df
+	git checkout -- .
