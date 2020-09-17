@@ -1,0 +1,5 @@
+======================================== AULA 101 - E SE EU ESQUECER DE COLOCAR A MENSAGEM NO COMMIT? - EDITOR VIM =========================================
+
+Se você esquecer de especificar a mensagem do commit, o Git Bash vai abrir o VIM para a edição.
+Para sair do VIM, tecle 'ESC' e depois digite:
+	:q!
