@@ -9,3 +9,11 @@ Para sair do VIM, tecle 'ESC' e depois digite:
 Descartar todas as modificações, voltando ao estado do commit atual:
 	git clean -df
 	git checkout -- .
+
+=========================================== AULA 103 - E SE EU QUISER DESFAZER O ÚLTIMO COMMIT? - COMANDO RESET ============================================
+
+- Remover o último commit mantendo as alterações nos arquivos:
+	git reset --soft HEAD~1
+
+- Remover o último commit INCLUSIVE as alterações nos arquivos:
+	git reset --hard HEAD~1
