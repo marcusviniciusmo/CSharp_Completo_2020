@@ -25,3 +25,11 @@ Descartar todas as modificações, voltando ao estado do commit atual:
 
 - Voltar para o último commit:
 	git checkout nome_da_branch
+
+======================================== AULA 107 - ASSOCIANDO O REPOSITÓRIO LOCAL AO REPOSITÓRIO REMOTO DO GITHUB  ========================================
+
+- Associar nosso repositório local ao repositório remoto, dando o apelido de "origin" a ele:
+	git remote add origin URI_do_repositorio_remoto
+
+- Associar o repositório local a um repositório remoto, porém mantendo o mesmo apelido:
+	git remote set-url origin URI_do_repositorio_remoto
