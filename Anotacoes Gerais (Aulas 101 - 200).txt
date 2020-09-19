@@ -46,3 +46,10 @@ NOTA: se você usou a opção -u, nas próximas vezes quer for subir o branc mas
 
 git config --global user.name "Seu Nome"
 git config --global user.email "Seu E-mail"
+
+============================================= AULA 110 - TRANSFERINDO UM REPOSITÓRIO REMOTO PARA SEU COMPUTADOR ============================================
+
+- Copiar o repositório, inclusive o histórico de commits:
+	git clone URI_do_repositorio_remoto
+
+Atenção: simplesmente copiar os arquivos NÃO traz o histórico de commits!
