@@ -17,3 +17,11 @@ Descartar todas as modificações, voltando ao estado do commit atual:
 
 - Remover o último commit INCLUSIVE as alterações nos arquivos:
 	git reset --hard HEAD~1
+
+========================================= AULA 104 - E SE EU QUISER SOMENTE DAR UMA OLHADA EM UMA VERSÃO ANTERIOR? =========================================
+
+- Navegar entre commits, alterando os arquivos temporariamente:
+	git checkout hash_do_commit
+
+- Voltar para o último commit:
+	git checkout nome_da_branch
