@@ -41,3 +41,8 @@ Descartar todas as modificações, voltando ao estado do commit atual:
 
 NOTA: se você usou a opção -u, nas próximas vezes quer for subir o branc master, basta fazer:
 	git push
+
+======================================= AULA 109 - A IMPORTÂNCIA DE SE CONFIGURAR CORRETAMENTE O USUÁRIO NO GIT BASH =======================================
+
+git config --global user.name "Seu Nome"
+git config --global user.email "Seu E-mail"
