@@ -53,3 +53,8 @@ git config --global user.email "Seu E-mail"
 	git clone URI_do_repositorio_remoto
 
 Atenção: simplesmente copiar os arquivos NÃO traz o histórico de commits!
+
+======================================================= AULA 111 - ATUALIZANDO SEU REPOSITÓRIO LOCAL =======================================================
+
+- Comando para atualizar seu repostitório local:
+	git pull origin master
