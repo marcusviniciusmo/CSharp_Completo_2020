@@ -58,3 +58,16 @@ Atenção: simplesmente copiar os arquivos NÃO traz o histórico de commits!
 
 - Comando para atualizar seu repostitório local:
 	git pull origin master
+
+================================================================== AULA 115 - ENUMERAÇÕES ==================================================================
+
+* Notação UML para Enumerações deve-se criar um estereótipo (Ex: <<enum>> ou <<enum constant>>):
+ _____________________________				 _____________________________________________
+|           <<enum>>          |				|                  <<enum>>                   |
+|         OrderStatus         |				|                 OrderStatus                 |
+|-----------------------------|				|---------------------------------------------|
+| - PENDING_PAYMENT : int = 0 |			OU	| - <<enum constant>> PENDING_PAYMENT : int 0 |
+| - PROCESSING: int = 1       |				| - <<enum constant>> PROCESSING : int 1      |
+| - SHIPPED : int = 2 	      |				| - <<enum constant>> SHIPPED : int 2 	      |
+| - DELIVERED: int = 3 	      |				| - <<enum constant>> DELIVERED : int 3       |
+ -----------------------------				 ---------------------------------------------

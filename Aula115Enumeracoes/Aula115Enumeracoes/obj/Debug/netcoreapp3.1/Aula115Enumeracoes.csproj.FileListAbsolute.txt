@@ -1,0 +1,13 @@
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\bin\Debug\netcoreapp3.1\Aula115Enumeracoes.exe
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\bin\Debug\netcoreapp3.1\Aula115Enumeracoes.deps.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\bin\Debug\netcoreapp3.1\Aula115Enumeracoes.runtimeconfig.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\bin\Debug\netcoreapp3.1\Aula115Enumeracoes.runtimeconfig.dev.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\bin\Debug\netcoreapp3.1\Aula115Enumeracoes.dll
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\bin\Debug\netcoreapp3.1\Aula115Enumeracoes.pdb
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\obj\Debug\netcoreapp3.1\Aula115Enumeracoes.csprojAssemblyReference.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\obj\Debug\netcoreapp3.1\Aula115Enumeracoes.AssemblyInfoInputs.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\obj\Debug\netcoreapp3.1\Aula115Enumeracoes.AssemblyInfo.cs
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\obj\Debug\netcoreapp3.1\Aula115Enumeracoes.csproj.CoreCompileInputs.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\obj\Debug\netcoreapp3.1\Aula115Enumeracoes.dll
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\obj\Debug\netcoreapp3.1\Aula115Enumeracoes.pdb
+D:\Marcus\Projetos\CSharpCompleto2020\Aula115Enumeracoes\Aula115Enumeracoes\obj\Debug\netcoreapp3.1\Aula115Enumeracoes.genruntimeconfig.cache
