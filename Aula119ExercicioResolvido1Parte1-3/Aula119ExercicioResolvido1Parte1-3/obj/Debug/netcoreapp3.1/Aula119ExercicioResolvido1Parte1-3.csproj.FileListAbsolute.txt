@@ -1,0 +1,13 @@
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\bin\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.exe
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\bin\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.deps.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\bin\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.runtimeconfig.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\bin\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.runtimeconfig.dev.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\bin\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.dll
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\bin\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.pdb
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\obj\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.csprojAssemblyReference.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\obj\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.AssemblyInfoInputs.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\obj\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.AssemblyInfo.cs
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\obj\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.csproj.CoreCompileInputs.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\obj\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.dll
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\obj\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.pdb
+D:\Marcus\Projetos\CSharpCompleto2020\Aula119ExercicioResolvido1Parte1-3\Aula119ExercicioResolvido1Parte1-3\obj\Debug\netcoreapp3.1\Aula119ExercicioResolvido1Parte1-3.genruntimeconfig.cache
