@@ -1,0 +1,13 @@
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.exe
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.deps.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.runtimeconfig.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.runtimeconfig.dev.json
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.dll
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\bin\Debug\netcoreapp3.1\Aula126Heranca.pdb
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.csprojAssemblyReference.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.AssemblyInfoInputs.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.AssemblyInfo.cs
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.csproj.CoreCompileInputs.cache
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.dll
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.pdb
+D:\Marcus\Projetos\CSharpCompleto2020\Aula126Heranca\Aula126Heranca\obj\Debug\netcoreapp3.1\Aula126Heranca.genruntimeconfig.cache
