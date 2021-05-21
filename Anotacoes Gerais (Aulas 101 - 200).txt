@@ -71,3 +71,37 @@ Atenção: simplesmente copiar os arquivos NÃO traz o histórico de commits!
 | - SHIPPED : int = 2 	      |				| - <<enum constant>> SHIPPED : int 2 	      |
 | - DELIVERED: int = 3 	      |				| - <<enum constant>> DELIVERED : int 3       |
  -----------------------------				 ---------------------------------------------
+
+============================================================ AULA 127 - UPCASTING E DOWNCASTING ============================================================
+
+Account acc = new Account(1001, "Alex", 0.0);
+BusinessAccount bAcc = new BusinessAccount(1002, "Maria", 0.0, 500.0);
+
+// UPCASTING - Conversão da subclasse para a superclasse.
+
+	Account acc1 = bAcc;
+	Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 200.0);
+	Account acc3 = new SavingsAccount(1004, "Anna", 0.0, 0.01);
+
+// DOWNCASTING - Conversão da superclasse para a subclasse.
+
+	// acc2 foi instanciado com BusinessAccount, só que está em uma variável do tipo Account.
+	BusinessAccount acc4 = (BusinessAccount)acc2;
+	acc4.Loan(100.0);
+	// acc2.Loan(100.0);
+
+	// O compilador não gera erro, porém há em tempo de execução, não sendo possível converter SavingsAccount para BusinessAccount
+	// BusinessAccount acc5 = (BusinessAccount)acc3;
+
+* Downcasting é uma operação insegura, e é necessário testar o objeto para saber se é o tipo desejado.
+	Pra testar, utiliza-se o operador "is".
+		if (acc3 is BusinessAccount)
+            	{
+                	BusinessAccount acc5 = (BusinessAccount)acc3;
+                	acc5.Loan(200.0);
+                	Console.WriteLine("Loan!");
+            	}
+
+* Há duas formas de fazer casting:
+	- BusinessAccount acc5 = (BusinessAccount)acc3;
+	- BusinessAccount acc5 = acc3 as BusinessAccount;
