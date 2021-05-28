@@ -1,6 +1,7 @@
 ﻿namespace Aula128SobreposicaoPalavrasVirtualEOverride.Entities
 {
     class SavingsAccount : Account
+    //sealed class SavingsAccount : Account -- Com o "sealed" não pode ser herdada
     {
         public double InterestRate { get; set; }
 
@@ -19,7 +20,7 @@
             Balance += Balance * InterestRate;
         }
 
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)
         {
             Balance -= amount;
         }
