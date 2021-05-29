@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\bin\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.exe
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\bin\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.deps.json
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\bin\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\bin\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\bin\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.dll
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\bin\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.pdb
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\obj\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\obj\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\obj\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\obj\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\obj\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.dll
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\obj\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.pdb
+C:\Users\marcu\source\repos\Aula132ExercicioResolvidoParte2\Aula132ExercicioResolvidoParte2\obj\Debug\netcoreapp3.1\Aula132ExercicioResolvidoParte2.genruntimeconfig.cache
