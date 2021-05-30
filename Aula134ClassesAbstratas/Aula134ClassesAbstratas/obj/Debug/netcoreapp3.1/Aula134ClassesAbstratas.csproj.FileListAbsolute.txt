@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\bin\Debug\netcoreapp3.1\Aula134ClassesAbstratas.exe
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\bin\Debug\netcoreapp3.1\Aula134ClassesAbstratas.deps.json
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\bin\Debug\netcoreapp3.1\Aula134ClassesAbstratas.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\bin\Debug\netcoreapp3.1\Aula134ClassesAbstratas.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\bin\Debug\netcoreapp3.1\Aula134ClassesAbstratas.dll
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\bin\Debug\netcoreapp3.1\Aula134ClassesAbstratas.pdb
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\obj\Debug\netcoreapp3.1\Aula134ClassesAbstratas.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\obj\Debug\netcoreapp3.1\Aula134ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\obj\Debug\netcoreapp3.1\Aula134ClassesAbstratas.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\obj\Debug\netcoreapp3.1\Aula134ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\obj\Debug\netcoreapp3.1\Aula134ClassesAbstratas.dll
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\obj\Debug\netcoreapp3.1\Aula134ClassesAbstratas.pdb
+C:\Users\marcu\source\repos\Aula134ClassesAbstratas\Aula134ClassesAbstratas\obj\Debug\netcoreapp3.1\Aula134ClassesAbstratas.genruntimeconfig.cache
