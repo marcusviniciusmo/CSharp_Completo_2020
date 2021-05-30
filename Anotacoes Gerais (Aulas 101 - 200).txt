@@ -119,3 +119,10 @@ Pra quê?
 	Geralmente convém selar métodos sobrepostos, pois sobreposições múltiplas podem ser uma porta de entrada para inconsistências.
 * Performance:
 	Atributos de tipo de uma classe selada são analisados de forma mais rápida em tempo de execução.
+
+=============================================================== AULA 135 - MÉTODOS ABSTRATOS ===============================================================
+
+* São métodos que não possuem implementação.
+* Métodos precisam ser abstratos quando a classe é genérica demais para conter sua implementação.
+* Se uma classe possuir pelo menos um método abstrato, então esta classe também é abstrata.
+* Notação UML: itálico.
