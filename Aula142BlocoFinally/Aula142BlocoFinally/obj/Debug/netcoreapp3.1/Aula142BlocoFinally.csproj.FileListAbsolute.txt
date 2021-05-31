@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\netcoreapp3.1\Aula142BlocoFinally.exe
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\netcoreapp3.1\Aula142BlocoFinally.deps.json
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\netcoreapp3.1\Aula142BlocoFinally.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\netcoreapp3.1\Aula142BlocoFinally.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\netcoreapp3.1\Aula142BlocoFinally.dll
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\bin\Debug\netcoreapp3.1\Aula142BlocoFinally.pdb
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\netcoreapp3.1\Aula142BlocoFinally.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\netcoreapp3.1\Aula142BlocoFinally.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\netcoreapp3.1\Aula142BlocoFinally.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\netcoreapp3.1\Aula142BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\netcoreapp3.1\Aula142BlocoFinally.dll
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\netcoreapp3.1\Aula142BlocoFinally.pdb
+C:\Users\marcu\source\repos\Aula142BlocoFinally\Aula142BlocoFinally\obj\Debug\netcoreapp3.1\Aula142BlocoFinally.genruntimeconfig.cache

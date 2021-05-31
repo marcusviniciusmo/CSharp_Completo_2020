@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula142BlocoFinally", "Aula142BlocoFinally\Aula142BlocoFinally.csproj", "{1BACC9FE-3BB2-44D6-A306-B47DF9ADF5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BACC9FE-3BB2-44D6-A306-B47DF9ADF5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BACC9FE-3BB2-44D6-A306-B47DF9ADF5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BACC9FE-3BB2-44D6-A306-B47DF9ADF5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BACC9FE-3BB2-44D6-A306-B47DF9ADF5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F32BE40-21F0-4AE0-9457-0612A4946B3F}
+	EndGlobalSection
+EndGlobal
