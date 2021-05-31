@@ -126,3 +126,7 @@ Pra quê?
 * Métodos precisam ser abstratos quando a classe é genérica demais para conter sua implementação.
 * Se uma classe possuir pelo menos um método abstrato, então esta classe também é abstrata.
 * Notação UML: itálico.
+
+============================================================ AULA 141 - ESTRUTURA TRY / CATCH ==============================================================
+
+StackTrace - rastreamento da exceção (em pilha).
