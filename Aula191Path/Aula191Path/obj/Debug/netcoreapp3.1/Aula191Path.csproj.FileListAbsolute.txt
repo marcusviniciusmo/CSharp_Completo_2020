@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\bin\Debug\netcoreapp3.1\Aula191Path.exe
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\bin\Debug\netcoreapp3.1\Aula191Path.deps.json
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\bin\Debug\netcoreapp3.1\Aula191Path.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\bin\Debug\netcoreapp3.1\Aula191Path.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\bin\Debug\netcoreapp3.1\Aula191Path.dll
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\bin\Debug\netcoreapp3.1\Aula191Path.pdb
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\obj\Debug\netcoreapp3.1\Aula191Path.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\obj\Debug\netcoreapp3.1\Aula191Path.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\obj\Debug\netcoreapp3.1\Aula191Path.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\obj\Debug\netcoreapp3.1\Aula191Path.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\obj\Debug\netcoreapp3.1\Aula191Path.dll
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\obj\Debug\netcoreapp3.1\Aula191Path.pdb
+C:\Users\marcu\source\repos\Aula191Path\Aula191Path\obj\Debug\netcoreapp3.1\Aula191Path.genruntimeconfig.cache
