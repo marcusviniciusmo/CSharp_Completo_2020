@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\bin\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.exe
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\bin\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.deps.json
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\bin\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\bin\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\bin\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.dll
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\bin\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.pdb
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\obj\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\obj\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\obj\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\obj\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\obj\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.dll
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\obj\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.pdb
+C:\Users\marcu\source\repos\Aula186FileFileInfoIOException\Aula186FileFileInfoIOException\obj\Debug\netcoreapp3.1\Aula186FileFileInfoIOException.genruntimeconfig.cache
