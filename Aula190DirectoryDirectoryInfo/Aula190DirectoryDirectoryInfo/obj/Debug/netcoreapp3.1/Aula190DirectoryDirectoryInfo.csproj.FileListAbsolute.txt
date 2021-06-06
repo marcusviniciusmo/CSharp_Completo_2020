@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.exe
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.deps.json
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.dll
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\bin\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.pdb
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.dll
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.pdb
+C:\Users\marcu\source\repos\Aula190DirectoryDirectoryInfo\Aula190DirectoryDirectoryInfo\obj\Debug\netcoreapp3.1\Aula190DirectoryDirectoryInfo.genruntimeconfig.cache
