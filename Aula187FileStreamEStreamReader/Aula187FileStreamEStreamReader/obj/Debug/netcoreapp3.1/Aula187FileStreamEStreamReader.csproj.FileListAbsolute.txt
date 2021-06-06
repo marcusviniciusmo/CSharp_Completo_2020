@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\bin\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.exe
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\bin\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.deps.json
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\bin\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\bin\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\bin\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.dll
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\bin\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.pdb
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\obj\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\obj\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\obj\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\obj\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\obj\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.dll
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\obj\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.pdb
+C:\Users\marcu\source\repos\Aula187FileStreamEStreamReader\Aula187FileStreamEStreamReader\obj\Debug\netcoreapp3.1\Aula187FileStreamEStreamReader.genruntimeconfig.cache
