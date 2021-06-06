@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\bin\Debug\netcoreapp3.1\Aula188BlocoUsing.exe
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\bin\Debug\netcoreapp3.1\Aula188BlocoUsing.deps.json
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\bin\Debug\netcoreapp3.1\Aula188BlocoUsing.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\bin\Debug\netcoreapp3.1\Aula188BlocoUsing.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\bin\Debug\netcoreapp3.1\Aula188BlocoUsing.dll
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\bin\Debug\netcoreapp3.1\Aula188BlocoUsing.pdb
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\obj\Debug\netcoreapp3.1\Aula188BlocoUsing.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\obj\Debug\netcoreapp3.1\Aula188BlocoUsing.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\obj\Debug\netcoreapp3.1\Aula188BlocoUsing.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\obj\Debug\netcoreapp3.1\Aula188BlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\obj\Debug\netcoreapp3.1\Aula188BlocoUsing.dll
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\obj\Debug\netcoreapp3.1\Aula188BlocoUsing.pdb
+C:\Users\marcu\source\repos\Aula188BlocoUsing\Aula188BlocoUsing\obj\Debug\netcoreapp3.1\Aula188BlocoUsing.genruntimeconfig.cache
