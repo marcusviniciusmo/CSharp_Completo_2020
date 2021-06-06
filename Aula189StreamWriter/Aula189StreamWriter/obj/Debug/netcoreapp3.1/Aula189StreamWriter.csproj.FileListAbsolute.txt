@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\bin\Debug\netcoreapp3.1\Aula189StreamWriter.exe
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\bin\Debug\netcoreapp3.1\Aula189StreamWriter.deps.json
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\bin\Debug\netcoreapp3.1\Aula189StreamWriter.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\bin\Debug\netcoreapp3.1\Aula189StreamWriter.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\bin\Debug\netcoreapp3.1\Aula189StreamWriter.dll
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\bin\Debug\netcoreapp3.1\Aula189StreamWriter.pdb
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\obj\Debug\netcoreapp3.1\Aula189StreamWriter.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\obj\Debug\netcoreapp3.1\Aula189StreamWriter.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\obj\Debug\netcoreapp3.1\Aula189StreamWriter.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\obj\Debug\netcoreapp3.1\Aula189StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\obj\Debug\netcoreapp3.1\Aula189StreamWriter.dll
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\obj\Debug\netcoreapp3.1\Aula189StreamWriter.pdb
+C:\Users\marcu\source\repos\Aula189StreamWriter\Aula189StreamWriter\obj\Debug\netcoreapp3.1\Aula189StreamWriter.genruntimeconfig.cache
