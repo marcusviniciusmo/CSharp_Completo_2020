@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.exe
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.deps.json
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.dll
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.pdb
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.dll
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.pdb
+C:\Users\marcu\source\repos\Aula192ExercicioDeFixacao\Aula192ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula192ExercicioDeFixacao.genruntimeconfig.cache
