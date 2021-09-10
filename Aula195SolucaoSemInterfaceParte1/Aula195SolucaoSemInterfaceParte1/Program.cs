@@ -1,4 +1,5 @@
 ﻿using Aula195SolucaoSemInterfaceParte1.Entities;
+using Aula195SolucaoSemInterfaceParte1.Services;
 using System;
 using System.Globalization;
 
@@ -27,7 +28,20 @@ namespace Aula195SolucaoSemInterfaceParte1
             Console.Write("Return (dd/MM/yyyy HH:mm): ");
             DateTime finish = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
 
+            Console.Write("Enter price per hour: ");
+            double pricePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Enter price per day: ");
+            double pricePerDay = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
+
+            RentalService rentalService = new RentalService(pricePerHour, pricePerDay);
+
+            rentalService.ProcessInvoice(carRental);
+
+            Console.WriteLine("INVOICE:");
+            Console.WriteLine(carRental.Invoice);
+            
         }
     }
 }
