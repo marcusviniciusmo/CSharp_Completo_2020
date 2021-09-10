@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\obj\Debug\netcoreapp3.1\Aula197SolucaoComInterface.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\obj\Debug\netcoreapp3.1\Aula197SolucaoComInterface.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\obj\Debug\netcoreapp3.1\Aula197SolucaoComInterface.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\obj\Debug\netcoreapp3.1\Aula197SolucaoComInterface.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\bin\Debug\netcoreapp3.1\Aula197SolucaoComInterface.exe
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\bin\Debug\netcoreapp3.1\Aula197SolucaoComInterface.deps.json
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\bin\Debug\netcoreapp3.1\Aula197SolucaoComInterface.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\bin\Debug\netcoreapp3.1\Aula197SolucaoComInterface.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\bin\Debug\netcoreapp3.1\Aula197SolucaoComInterface.dll
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\bin\Debug\netcoreapp3.1\Aula197SolucaoComInterface.pdb
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\obj\Debug\netcoreapp3.1\Aula197SolucaoComInterface.dll
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\obj\Debug\netcoreapp3.1\Aula197SolucaoComInterface.pdb
+C:\Users\marcu\source\repos\Aula197SolucaoComInterface\Aula197SolucaoComInterface\obj\Debug\netcoreapp3.1\Aula197SolucaoComInterface.genruntimeconfig.cache
