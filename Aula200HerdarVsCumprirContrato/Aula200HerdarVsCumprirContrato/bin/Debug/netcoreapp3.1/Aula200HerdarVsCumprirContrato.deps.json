@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula200HerdarVsCumprirContrato/1.0.0": {
+        "runtime": {
+          "Aula200HerdarVsCumprirContrato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula200HerdarVsCumprirContrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

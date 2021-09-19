@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.exe
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.deps.json
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.dll
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\bin\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.pdb
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.dll
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.pdb
+C:\Users\marcu\source\repos\Aula200HerdarVsCumprirContrato\Aula200HerdarVsCumprirContrato\obj\Debug\netcoreapp3.1\Aula200HerdarVsCumprirContrato.genruntimeconfig.cache
