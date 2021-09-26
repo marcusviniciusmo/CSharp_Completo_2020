@@ -13,7 +13,7 @@ namespace Aula204GenericsParte1ProblemaMotivador1Reuso
              * Em seguida, informar qual foi o primeiro valor informado.
              */
 
-            PrintService printService = new PrintService();
+            PrintService<int> printService = new PrintService<int>();
 
             Console.Write("How many values? ");
             int n = int.Parse(Console.ReadLine());
