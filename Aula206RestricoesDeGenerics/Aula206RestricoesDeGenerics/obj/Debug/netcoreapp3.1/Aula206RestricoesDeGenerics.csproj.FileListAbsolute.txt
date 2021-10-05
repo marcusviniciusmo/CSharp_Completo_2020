@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\bin\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.exe
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\bin\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.deps.json
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\bin\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\bin\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\bin\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.dll
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\bin\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.pdb
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\obj\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\obj\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\obj\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\obj\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\obj\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.dll
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\obj\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.pdb
+C:\Users\marcu\source\repos\Aula206RestricoesDeGenerics\Aula206RestricoesDeGenerics\obj\Debug\netcoreapp3.1\Aula206RestricoesDeGenerics.genruntimeconfig.cache
