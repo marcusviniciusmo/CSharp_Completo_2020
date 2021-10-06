@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula208ConjuntosHashSetESortedSetParte1/1.0.0": {
+        "runtime": {
+          "Aula208ConjuntosHashSetESortedSetParte1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula208ConjuntosHashSetESortedSetParte1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
