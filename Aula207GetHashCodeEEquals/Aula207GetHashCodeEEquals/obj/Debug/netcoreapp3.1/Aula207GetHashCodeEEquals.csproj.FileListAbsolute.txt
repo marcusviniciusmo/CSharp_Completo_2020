@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\bin\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.exe
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\bin\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.deps.json
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\bin\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\bin\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\bin\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.dll
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\bin\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.pdb
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\obj\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\obj\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\obj\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\obj\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\obj\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.dll
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\obj\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.pdb
+C:\Users\marcu\source\repos\Aula207GetHashCodeEEquals\Aula207GetHashCodeEEquals\obj\Debug\netcoreapp3.1\Aula207GetHashCodeEEquals.genruntimeconfig.cache
