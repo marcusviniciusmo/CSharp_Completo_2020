@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\bin\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.exe
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\bin\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.deps.json
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\bin\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\bin\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\bin\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.dll
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\bin\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.pdb
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\obj\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\obj\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\obj\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\obj\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\obj\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.dll
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\obj\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.pdb
+C:\Users\marcu\source\repos\Aula226IntroducaoAoLINQ\Aula226IntroducaoAoLINQ\obj\Debug\netcoreapp3.1\Aula226IntroducaoAoLINQ.genruntimeconfig.cache
