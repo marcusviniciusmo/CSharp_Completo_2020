@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\bin\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.exe
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\bin\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.deps.json
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\bin\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\bin\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\bin\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.dll
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\bin\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.pdb
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\obj\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\obj\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\obj\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\obj\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\obj\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.dll
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\obj\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.pdb
+C:\Users\marcu\source\repos\Aula221IntroducaoADelegates\Aula221IntroducaoADelegates\obj\Debug\netcoreapp3.1\Aula221IntroducaoADelegates.genruntimeconfig.cache
