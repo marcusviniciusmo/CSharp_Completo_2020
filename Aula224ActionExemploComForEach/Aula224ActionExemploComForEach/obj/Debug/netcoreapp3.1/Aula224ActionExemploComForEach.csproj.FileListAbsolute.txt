@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\bin\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.exe
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\bin\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.deps.json
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\bin\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\bin\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\bin\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.dll
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\bin\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.pdb
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\obj\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\obj\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\obj\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\obj\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\obj\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.dll
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\obj\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.pdb
+C:\Users\marcu\source\repos\Aula224ActionExemploComForEach\Aula224ActionExemploComForEach\obj\Debug\netcoreapp3.1\Aula224ActionExemploComForEach.genruntimeconfig.cache
