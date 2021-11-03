@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\bin\Debug\netcoreapp3.1\Aula222MulticastDelegates.exe
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\bin\Debug\netcoreapp3.1\Aula222MulticastDelegates.deps.json
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\bin\Debug\netcoreapp3.1\Aula222MulticastDelegates.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\bin\Debug\netcoreapp3.1\Aula222MulticastDelegates.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\bin\Debug\netcoreapp3.1\Aula222MulticastDelegates.dll
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\bin\Debug\netcoreapp3.1\Aula222MulticastDelegates.pdb
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\obj\Debug\netcoreapp3.1\Aula222MulticastDelegates.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\obj\Debug\netcoreapp3.1\Aula222MulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\obj\Debug\netcoreapp3.1\Aula222MulticastDelegates.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\obj\Debug\netcoreapp3.1\Aula222MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\obj\Debug\netcoreapp3.1\Aula222MulticastDelegates.dll
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\obj\Debug\netcoreapp3.1\Aula222MulticastDelegates.pdb
+C:\Users\marcu\source\repos\Aula222MulticastDelegates\Aula222MulticastDelegates\obj\Debug\netcoreapp3.1\Aula222MulticastDelegates.genruntimeconfig.cache
