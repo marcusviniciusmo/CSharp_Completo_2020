@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula225FuncExemploComSelect/1.0.0": {
+        "runtime": {
+          "Aula225FuncExemploComSelect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula225FuncExemploComSelect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

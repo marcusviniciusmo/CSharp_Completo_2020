@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\bin\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.exe
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\bin\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.deps.json
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\bin\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\bin\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\bin\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.dll
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\bin\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.pdb
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\obj\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\obj\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\obj\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\obj\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\obj\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.dll
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\obj\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.pdb
+C:\Users\marcu\source\repos\Aula225FuncExemploComSelect\Aula225FuncExemploComSelect\obj\Debug\netcoreapp3.1\Aula225FuncExemploComSelect.genruntimeconfig.cache
