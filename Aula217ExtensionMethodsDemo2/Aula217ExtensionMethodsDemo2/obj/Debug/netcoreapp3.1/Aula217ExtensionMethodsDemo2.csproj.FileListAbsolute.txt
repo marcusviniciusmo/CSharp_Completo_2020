@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\bin\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.exe
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\bin\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.deps.json
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\bin\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\bin\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\bin\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.dll
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\bin\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.pdb
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\obj\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\obj\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\obj\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\obj\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\obj\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.dll
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\obj\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.pdb
+C:\Users\marcu\source\repos\Aula217ExtensionMethodsDemo2\Aula217ExtensionMethodsDemo2\obj\Debug\netcoreapp3.1\Aula217ExtensionMethodsDemo2.genruntimeconfig.cache
