@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\bin\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.exe
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\bin\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.deps.json
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\bin\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\bin\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\bin\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.dll
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\bin\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.pdb
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\obj\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\obj\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\obj\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\obj\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\obj\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.dll
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\obj\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.pdb
+C:\Users\marcu\source\repos\Aula228DemoLINQComLambdaParte1\Aula228DemoLINQComLambdaParte1\obj\Debug\netcoreapp3.1\Aula228DemoLINQComLambdaParte1.genruntimeconfig.cache
