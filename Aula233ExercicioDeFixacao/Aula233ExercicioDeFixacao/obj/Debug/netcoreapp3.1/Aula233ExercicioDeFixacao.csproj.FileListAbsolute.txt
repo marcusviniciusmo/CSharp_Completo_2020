@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.exe
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.deps.json
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.dll
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\bin\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.pdb
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.dll
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.pdb
+C:\Users\marcu\source\repos\Aula233ExercicioDeFixacao\Aula233ExercicioDeFixacao\obj\Debug\netcoreapp3.1\Aula233ExercicioDeFixacao.genruntimeconfig.cache
