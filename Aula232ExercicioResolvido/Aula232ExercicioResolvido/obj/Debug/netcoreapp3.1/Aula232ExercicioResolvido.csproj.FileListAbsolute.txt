@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula232ExercicioResolvido.exe
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula232ExercicioResolvido.deps.json
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula232ExercicioResolvido.runtimeconfig.json
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula232ExercicioResolvido.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula232ExercicioResolvido.dll
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\bin\Debug\netcoreapp3.1\Aula232ExercicioResolvido.pdb
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula232ExercicioResolvido.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula232ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula232ExercicioResolvido.AssemblyInfo.cs
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula232ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula232ExercicioResolvido.dll
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula232ExercicioResolvido.pdb
+C:\Users\marcu\source\repos\Aula232ExercicioResolvido\Aula232ExercicioResolvido\obj\Debug\netcoreapp3.1\Aula232ExercicioResolvido.genruntimeconfig.cache
