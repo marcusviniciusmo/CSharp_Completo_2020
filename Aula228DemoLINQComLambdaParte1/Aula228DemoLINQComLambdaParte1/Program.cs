@@ -41,82 +41,166 @@ namespace Aula228DemoLINQComLambdaParte1
             };
 
             // TIER 1 AND PRICE < 900.0
-            var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
+            //var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
+            var r1 =
+                from p in products
+                where p.Category.Tier == 1 && p.Price < 900.0
+                select p;
             Print("TIER 1 AND PRICE < 900.0", r1);
 
             // NAME OF PRODUCTS FROM TOOLS
-            var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+            //var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+            var r2 =
+                from p in products
+                where p.Category.Name == "Tools"
+                select p.Name;
             Print("NAME OF PRODUCTS FROM TOOLS", r2);
 
             // PRODUCTS STARTED WITH 'C' AND ANONYNOUS OBJECT
-            var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
+            //var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new { p.Name, p.Price, CategoryName = p.Category.Name });
+            var r3 =
+                from p in products
+                where p.Name[0] == 'C'
+                select new
+                {
+                    p.Name,
+                    p.Price,
+                    CategoryName = p.Category.Name
+                };
             Print("PRODUCTS STARTED WITH 'C' AND ANONYNOUS OBJECT", r3);
 
             // TIER 1 ORDER BY PRICE THEN BY NAME
-            var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+            //var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+            var r4 =
+                from p in products
+                where p.Category.Tier == 1
+                orderby p.Name
+                orderby p.Price
+                select p;
             Print("TIER 1 ORDER BY PRICE THEN BY NAME", r4);
 
             // SKIP 2 TAKE 4 (pula os 2 primeiros e pega 4)
-            var r5 = products.Skip(2).Take(4);
+            //var r5 = products.Skip(2).Take(4);
+            var r5 =
+                (from p in products
+                 select p)
+                 .Skip(2)
+                 .Take(4);
             Print("SKIP 2 TAKE 4", r5);
 
             // FIRST OR DEFAULT - encontrando um elemento
-            var r6 = products.FirstOrDefault();
+            //var r6 = products.FirstOrDefault();
+            var r6 =
+                (from p in products
+                 select p)
+                .FirstOrDefault();
             Console.WriteLine($"First or Default Test 1: {r6}");
             Console.WriteLine();
 
             // FIRST OR DEFAULT - não encontrando nenhum elemento
-            var r7 = products.Where(p => p.Price > 3000.0).FirstOrDefault(); // se não encontrar nenhum, retorna nulo
+            //var r7 = products.Where(p => p.Price > 3000.0).FirstOrDefault(); // se não encontrar nenhum, retorna nulo
+            var r7 =
+                (from p in products
+                 where p.Price > 3000.0
+                 select p)
+                 .FirstOrDefault();
             Console.WriteLine($"First or Default Test 2: {r7}");
             Console.WriteLine();
 
             // SINGLE OR DEFAULT - encontrando um elemento
-            var r8 = products.Where(p => p.Id == 3).SingleOrDefault();
+            //var r8 = products.Where(p => p.Id == 3).SingleOrDefault();
+            var r8 =
+                (from p in products
+                 where p.Id == 3
+                 select p)
+                 .SingleOrDefault();
             Console.WriteLine($"Single or Default Test 1: {r8}");
             Console.WriteLine();
 
             // SINGLE OR DEFAULT - não encontrando nenhum elemento
-            var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
+            //var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
+            var r9 =
+                (from p in products
+                 where p.Id == 30
+                 select p)
+                 .SingleOrDefault();
             Console.WriteLine($"Single or Default Test 2: {r9}");
             Console.WriteLine();
 
             // MAX
-            var r10 = products.Max(p => p.Price);
+            //var r10 = products.Max(p => p.Price);
+            var r10 =
+                (from p in products
+                 select p.Price)
+                 .Max();
             Console.WriteLine($"Max price: {r10}");
             Console.WriteLine();
 
             // MIN
-            var r11 = products.Min(p => p.Price);
+            //var r11 = products.Min(p => p.Price);
+            var r11 =
+                (from p in products
+                 select p.Price)
+                 .Min();
             Console.WriteLine($"Min price: {r11}");
             Console.WriteLine();
 
             // CATEGORY 1 SUM PRICES
-            var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            //var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            var r12 =
+                (from p in products
+                 where p.Category.Id == 1
+                 select p.Price)
+                 .Sum();
             Console.WriteLine($"Category 1 Sum Prices: {r12}");
             Console.WriteLine();
 
             // CATEGORY 1 AVERAGE PRICES
-            var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            //var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            var r13 =
+                (from p in products
+                 where p.Category.Id == 1
+                 select p.Price)
+                 .Average();
             Console.WriteLine($"Category 1 Average Prices: {r13}");
             Console.WriteLine();
 
             // CATEGORY 5 AVERAGE EMPTY - coleção vazia e divisão por 0
-            var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            //var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            var r14 =
+                (from p in products
+                 where p.Category.Id == 5
+                 select p.Price)
+                 .DefaultIfEmpty(0.0)
+                 .Average();
             Console.WriteLine($"Category 5 Average Prices: {r14}");
             Console.WriteLine();
 
             // CATEGORY 1 AGGREGATE
-            var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate((x, y) => x + y);
+            //var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate((x, y) => x + y);
+            var r15 =
+                (from p in products
+                 where p.Category.Id == 1
+                 select p.Price)
+                 .Aggregate((x, y) => x + y);
             Console.WriteLine($"Category 1 Aggregate Sum: {r15}");
             Console.WriteLine();
 
             // CATEGORY 5 AGGREGATE
-            var r16 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
+            //var r16 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
+            var r16 =
+                (from p in products
+                 where p.Category.Id == 5
+                 select p.Price)
+                 .Aggregate(0.0, (x, y) => x + y);
             Console.WriteLine($"Category 5 Aggregate Sum: {r16}");
             Console.WriteLine();
 
             // GROUP BY
-            var r17 = products.GroupBy(p => p.Category);
+            //var r17 = products.GroupBy(p => p.Category);
+            var r17 =
+                (from p in products
+                 group p by p.Category);
             foreach (IGrouping<Category, Product> item in r17)
             {
                 Console.WriteLine($"Category {item.Key.Name}:");
